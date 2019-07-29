@@ -1,7 +1,7 @@
 ---
 name: Bounty template
 about: Use this template to create a new bounty for the ETHBerlin Zwei hackathon
-title: ''
+title: '[BOUNTY] Project name - task'
 labels: bounty
 assignees: ''
 ---
@@ -16,7 +16,7 @@ How does a hacker qualify for this bounty, and what do they have to do?
 
 ## Resources
 
-In this case, link to your file in the [knowledge base resources directory](https://github.com/ethberlinzwei/KnowledgeBase/tree/2019/resources).
+In this case, link to your file in the [knowledge base resources directory](/resources).
 
 ## Judging Criteria
 
