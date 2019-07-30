@@ -30,19 +30,14 @@ You received login information in the welcome e-mail.
 
 ## Communications during the event
 
-You received a welcome e-mail with the link to our mentorship orga [Riot](https://riot.im/) chat. If you can't find it, please send your Riot handle to one of the mentorship leads. They will then add you to the channel.
-
-We have a general community chat already! Find us on [Status](http://status.im/) in the #ethberlin channel.
+You will receive welcome e-mail with the link to our mentorship orga [Riot](https://riot.im/) chat. If you can't find it, please send your Riot handle to one of the mentorship leads. They will then add you to the channel.
 
 ## Mentorship On-Site Leads
 
 We will be there over the weekend to support the mentors on-site if you have questions:
 
-<!-- TODO: Update -->
-
 -   Philip
 -   Caspar
--   Elias
 
 If you have any questions along the way or can't access any of the mentorship-specific tools (our Riot chat or ticket system), please reach out!
-For all the general event infos, please go to the [ETHBerlin website](https://ethberlin.com) or the general [ETHBerlin Knowledge Base](https://github.com/ethberlin-hackathon/ETHBerlin-KnowledgeBase).
+For all the general event infos, please go to the [ETHBerlin website](https://ethberlinzwei.com) or the general [ETHBerlin Knowledge Base](https://github.com/ethberlinzwei/KnowledgeBase).
