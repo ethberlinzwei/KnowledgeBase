@@ -19,7 +19,7 @@ We have also created [3Box Hub](https://3box.io/hub), an optional web interface 
 - Users can use their ETH account, don't need to install additional software
 
 ## 3Box SDK and APIs
-We offer `3Box.js`, a JavaScript SDK that makes it easy to add these features to your serverless web application. *Learn more [here](https://docs.3box.io/build/web-apps).*
+We offer `3Box.js`, a JavaScript SDK that makes it easy to add these APIs to your serverless web application. *Learn more [here](https://docs.3box.io/build/web-apps).*
 
 -   [**👩 Profiles**](https://docs.3box.io/build/web-apps/profiles): Replace hex addresses with social user profiles throughout your app. Set/get public and private data to/from a user's profile. Profiles are great for storing things like name, image, group affiliations, social account verifications, and more in a location that is easily shared across apps.
 
