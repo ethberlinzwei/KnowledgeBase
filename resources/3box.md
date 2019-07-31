@@ -2,11 +2,7 @@
 3Box is the best way to manage user data on the decentralized web!
 
 #### What is 3Box
-3Box is a secure and decentralized user data storage system. It's the easiest way for developers to build engaging, fully-featured web apps without needing to run a backend for managing user data. 
-
-The [3Box JavaScript SDK](https://docs.3box.io/build/web-apps) provides easy-to-use [APIs](https://docs.3box.io/products) for identity, auth, profiles, storage, and messaging that help you build better apps, faster. 
-
-We have also created [3Box Hub](https://3box.io/hub), an optional web interface that allows users to manage their 3Box Ethereum social profile and personal storage drive.
+3Box is a secure and decentralized user data storage system. It's the easiest way for developers to build engaging, fully-featured web apps without needing to run a backend for managing user data. The [3Box JavaScript SDK](https://docs.3box.io/build/web-apps) provides easy-to-use [APIs](https://docs.3box.io/products) for identity, auth, profiles, storage, and messaging that help you build better apps, faster. 
 
 #### Why 3Box
 - Build fully-featured dapps with less backend infrastructure
@@ -27,13 +23,13 @@ We offer `3Box.js`, a JavaScript SDK that makes it easy to add these APIs to you
 
 ## Other 3Box Tools
 
-- [**3️⃣ 3Box Hub**](https://3box.io/hub): A web interface where end users can create and manage their social profile, as well as their personal storage drive. Users can link their Twitter and Github social accounts to their Ethereum profile, and privately verify their email address.
+- [**3️⃣ 3Box Hub**](https://3box.io/hub): A optional web interface where end users can create and manage their social profile, as well as their personal storage drive. Users can link their Twitter and Github social accounts to their Ethereum profile, and privately verify their email address.
 
 - [**⚡ Profile Hovers**](https://github.com/3box/profile-hover): A plugin that allows you to display 3Box social profile information about an ethereum user in a hover component, similar to twitter's profile hover cards. Available as a react component or HTML element.
 
 ## Prizes Offered
 
-1.
+1. [**🏆 3Best Overall Integration**](https://github.com/ethberlinzwei/KnowledgeBase/issues/3)
 2.
 
 ## Getting Started
