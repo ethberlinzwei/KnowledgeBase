@@ -1,23 +1,25 @@
 # 3Box
-**Hello hackers! 👋 3Box is the best way to manage user data on the decentralized web!**
+Hello ETHBerlin! 👋 
 
-#### What is 3Box
+3Box is the best way to manage user data on the decentralized web!
 
-3Box is a secure and decentralized user data storage system. It's the easiest way for developers to build engaging, fully-featured web applications without needing to run a backend for handling user data. 
+#### What is 3Box?
+
+3Box is a secure and decentralized user data storage system. It's the easiest way for developers to build engaging, fully-featured web apps without needing to run a backend for managing user data. 
 
 The [3Box JavaScript SDK](https://docs.3box.io/build/web-apps) provides easy-to-use [APIs](https://docs.3box.io/products) for identity, auth, profiles, storage, and messaging that help you build better apps, faster. 
 
 We have also created [3Box Hub](https://3box.io/hub), an optional web interface that allows users to manage their 3Box Ethereum social profile and personal storage drive.
 
-#### Why 3Box
+#### Why 3Box?
 - Build fully-featured dapps with less backend infrastructure
 - Develop faster with easy-to-use APIs and tooling
 - Reliable decentralized storage on IPFS and OrbitDB
 - Improve security and privacy of user data
 - Support data portability and interoperability
-- Users don't need to install software
+- Users can use their ETH account, don't need to install additional software
 
-## 3Box SDK Features
+## 3Box SDK and APIs
 We offer `3Box.js`, a JavaScript SDK that makes it easy to add these features to your serverless web application. *Learn more [here](https://docs.3box.io/build/web-apps).*
 
 -   [**👩 Profiles**](https://docs.3box.io/build/web-apps/profiles): Replace hex addresses with social user profiles throughout your app. Set/get public and private data to/from a user's profile. Profiles are great for storing things like name, image, group affiliations, social account verifications, and more in a location that is easily shared across apps.
