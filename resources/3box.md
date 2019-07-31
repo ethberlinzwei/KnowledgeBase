@@ -3,15 +3,14 @@ Hello ETHBerlin! 👋
 
 3Box is the best way to manage user data on the decentralized web!
 
-#### What is 3Box?
-
+#### What is 3Box
 3Box is a secure and decentralized user data storage system. It's the easiest way for developers to build engaging, fully-featured web apps without needing to run a backend for managing user data. 
 
 The [3Box JavaScript SDK](https://docs.3box.io/build/web-apps) provides easy-to-use [APIs](https://docs.3box.io/products) for identity, auth, profiles, storage, and messaging that help you build better apps, faster. 
 
 We have also created [3Box Hub](https://3box.io/hub), an optional web interface that allows users to manage their 3Box Ethereum social profile and personal storage drive.
 
-#### Why 3Box?
+#### Why 3Box
 - Build fully-featured dapps with less backend infrastructure
 - Develop faster with easy-to-use APIs and tooling
 - Reliable decentralized storage on IPFS and OrbitDB
