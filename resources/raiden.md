@@ -18,8 +18,8 @@ Raiden lets users pay anyone in the network by using a path of connected payment
 
 ## Features
 
--   Payment channel network for off-chain token transfers
--   Token networks can be created for any ERC20 compliant token
+- Payment channel network for off-chain token transfers
+- Token networks can be created for any ERC20 compliant token
 - Direct transfers (with channel partners) 
 - Mediated transfers via a path of connected nodes without the need of opening a channel with recipients directly
 
