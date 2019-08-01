@@ -38,7 +38,6 @@ We offer `3Box.js`, a JavaScript SDK that makes it easy to add these APIs to you
 ## Getting Started
 
 - **Integrate 3Box into your app**: Visit the 3Box SDK [installation guide](https://docs.3box.io/build/web-apps/install)
-
 - **Try creating a user profile**: Visit the [3Box Hub](https://3box.io/hub) application
 
 
