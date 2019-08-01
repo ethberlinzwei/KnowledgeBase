@@ -44,4 +44,4 @@ We offer `3Box.js`, a JavaScript SDK that makes it easy to add these APIs to you
 
 - **Chat with us**: Join our ETHBerlin [discord](https://discord.gg/wJ8dz8B) channel
 
-- **Read the docs**:Visit our [documentation site](https://docs.3box.io) to learn more about the 3Box [network](https://docs.3box.io/why-3box), [JavaScript SDK](https://docs.3box.io/build/web-apps), and [APIs](https://docs.3box.io/products)
+- **Read the docs**: Visit our [documentation site](https://docs.3box.io) to learn more about the 3Box [network](https://docs.3box.io/why-3box), [JavaScript SDK](https://docs.3box.io/build/web-apps), and [APIs](https://docs.3box.io/products)
