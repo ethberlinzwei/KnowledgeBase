@@ -29,8 +29,9 @@ We offer `3Box.js`, a JavaScript SDK that makes it easy to add these APIs to you
 
 ## Prizes Offered
 
-1. [**🏆 3Best Overall Integration**](https://github.com/ethberlinzwei/KnowledgeBase/issues/3)
-2.
+1. [**🏆 Best Overall Integration**](https://github.com/ethberlinzwei/KnowledgeBase/issues/3)
+2. [**🙌 Most Social Application**](https://github.com/ethberlinzwei/KnowledgeBase/issues/4)
+3. [**📂 Best Use of Spaces**](https://github.com/ethberlinzwei/KnowledgeBase/issues/5)
 
 ## Getting Started
 
