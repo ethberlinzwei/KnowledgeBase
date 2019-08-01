@@ -35,24 +35,12 @@ We offer `3Box.js`, a JavaScript SDK that makes it easy to add these APIs to you
 
 ## Getting Started
 
-1.  [Sign up at the 3Box hub](https://3box.io/hub).
-2.  Integrate 3Box into your app with [3box-js](https://github.com/3box/3box-js)
+#### Integrate 3Box into your app
+Visit the 3Box SDK [installation guide](https://docs.3box.io/build/web-apps/install)
 
-```shell
-npm install 3box
-```
+#### Try creating a user profile
+Visit the [3Box Hub](https://3box.io/hub) application
 
-Import the 3box module
-
-```javascript
-const Box = require('3box')
-```
-
-Import using the dist build in your html code
-
-```html
-<script type="text/javascript" src="../dist/3box.js"></script>
-```
 
 ## Need Help?
 
