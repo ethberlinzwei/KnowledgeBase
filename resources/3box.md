@@ -1,5 +1,5 @@
 # [3Box](https://3box.io)
-3Box is the best way to manage user data on the decentralized web!
+3Box is the best way for developers to manage user data on the decentralized web!
 
 #### What is 3Box
 3Box is a secure and decentralized user data storage system. It's the easiest way for developers to build engaging, fully-featured web apps without needing to run a backend for managing user data. The [3Box JavaScript SDK](https://docs.3box.io/build/web-apps) provides easy-to-use [APIs](https://docs.3box.io/products) for identity, auth, profiles, storage, and messaging that help you build better apps, faster. 
