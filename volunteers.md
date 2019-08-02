@@ -5,7 +5,7 @@ Hi volunteers!
 First of all, thank you for supporting ETHBerlin, our community and the whole ecosystem.
 Volunteering is an important role that makes these kind of events possible in the first place.
 
-In order to prepare for the event and get up to speed, please read all awesome ETHBerlin material out there beforehand: [Medium](https://medium.com/ethberlin), [Website](http://ethberlin.com) and [Knowledge Base](https://github.com/ethberlin-hackathon/ETHBerlin-KnowledgeBase).
+In order to prepare for the event and get up to speed, please read all awesome ETHBerlin material out there beforehand: [Medium](https://medium.com/ethberlin), [Website](http://ethberlin.com) and [Knowledge Base](https://github.com/ethberlinzwei/KnowledgeBase).
 If you have any questions, don't hesitate to get in touch.
 
 ## Code of Volunteer

@@ -12,7 +12,7 @@ Hackers of the world unite!
 
 ## Registration
 
-As you may already know, on the 7th there are two parallel events, from which you can choose only one (please no event hopping, as each have limited capacity and they're both typically at max capacity). View the [schedule](http://ethberlin.com/schedule) to decide which one's for you. Depending on the venue you choose, here's how the hackathon registeration will happen:
+As you may already know, on the 7th there are two parallel events, from which you can choose only one (please no event hopping, as each have limited capacity and they're both typically at max capacity). View the [schedule](http://ethberlin.com/schedule) to decide which one's for you. Depending on the venue you choose, here's how the hackathon registration will happen:
 
 -   **Factory Görlitzer Park** Be there at 14:30 to register for the hackathon.
 -   **Factory Mitte** After the conference, at 21:00, everyone will come to **Factory Görlitzer Park**, and you can register then.
@@ -21,9 +21,7 @@ The team formation and hackathon kick-off will happen at **Factory Görlitzer Pa
 
 ## Team Building
 
-<!-- TODO: Reset that repo? -->
-
-We have a [repository](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding) dedicated to hackers looking for teams, and teams looking for hackers. Consider it as a way to meet like-minded people and discuss building teams, however this does not replace the official team registeration, which happens on the first day of the hackathon.
+We have a [repository](https://github.com/ethberlinzwei/Find-A-Team) dedicated to hackers looking for teams, and teams looking for hackers. Consider it as a way to meet like-minded people and discuss building teams, however this does not replace the official team registration, which happens on the first day of the hackathon.
 
 In addition to the repository, you can participate in the #ethberlin and #buidlyourberlinteam status channels, or the Riot [chat](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org) to discuss clever stuff and find your hackmate :)
 
@@ -48,15 +46,15 @@ This is the main prize of ETHBerlin. There can be 10 winners. The grand bounty i
 
 #### Sponsors’ Prizes
 
-Some of ETHBerlin’s sponsors have their own awards. They can each pay out a maximum of €5000. These prizes will be funded and distributed via Gitcoin. ETHBerlin has no influence on the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
+Some of ETHBerlin’s sponsors have their own awards. They can each pay out a maximum of €5000. These prizes will be funded and distributed via Gitcoin. ETHBerlin has no influence on the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here](https://github.com/ethberlinzwei/Bounties/issues).
 
 #### Community Improvement Bounties
 
-These are small prizes endowed with €1000 each by ETHBerlin. Find them [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
+These are small prizes endowed with €1000 each by ETHBerlin. Find them [here](https://github.com/ethberlinzwei/Bounties/issues).
 
 #### People’s Choice Awards
 
-Previous Hackathons have showed that people’s favourite teams were not always among the actual winners. At ETHBerlin, we would like to give those projects a chance by rewarding the people’s favorite top 5 teams with a community prize of €1000 each. The winner will be determined through an [Olympia](https://blog.gnosis.pm/announcing-gnosis-olympia-5fb7e16dd259?gi=de34dba69451) prediction market tournament. For details go [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues/29).
+Previous Hackathons have showed that people’s favourite teams were not always among the actual winners. At ETHBerlin, we would like to give those projects a chance by rewarding the people’s favorite top 5 teams with a community prize of €1000 each. The winner will be determined through an [Olympia](https://blog.gnosis.pm/announcing-gnosis-olympia-5fb7e16dd259?gi=de34dba69451) prediction market tournament.
 
 Note that you can submit your work to multiple prize awards, they are not exclusive! For example you can submit your work to the open track bounty and a sponsor specific prize, just make sure to submit it everywhere where you want to participate.
 

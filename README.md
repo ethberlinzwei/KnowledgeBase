@@ -1,38 +1,32 @@
 # ETHBerlin Zwei Knowledge Base 2019
 
-This repository of knowledge will guide you getting started with ETHBerlin, Ethereum, blockchain, and decentralized application development in general.
+This repository of knowledge guides you through getting started with ETHBerlin, Ethereum, blockchain, and decentralized application development.
 
-### TL;DR
+## TL;DR
 
-- Find a team on Github: https://github.com/ethberlinzwei/Find-A-Team
-- Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://webchat.weho.st/#/room/#ethberlinhackers:matrix.org)
-- Contribute to the knowledge base on Riot: [#ethberlinzwei-kb:chat.weho.st](https://webchat.weho.st/#/room/#ethberlinzwei-kb:chat.weho.st)
-- Sign up for ETHBerlin Zwei on Devpost: https://ethberlin.devpost.com/
-- Check for updates on: https://ethberlinzwei.com/
-- Find the old knowledge base from last year at: https://github.com/ethberlin-hackathon/ETHBerlin-KnowledgeBase
+-   Find a team on Github: <https://github.com/ethberlinzwei/Find-A-Team>
+-   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://webchat.weho.st/#/room/#ethberlinhackers:matrix.org)
+-   Contribute to the knowledge base on Riot: [#ethberlinzwei-kb:chat.weho.st](https://webchat.weho.st/#/room/#ethberlinzwei-kb:chat.weho.st)
+-   Sign up for ETHBerlin Zwei on Devpost: <https://ethberlin.devpost.com/>
+-   Check for updates on: <https://ethberlinzwei.com/>
+-   Find the old knowledge base from last year at: <https://github.com/ethberlin-hackathon/ETHBerlin-KnowledgeBase>
 
-### @TODO for this knowledge base 2019
+## @TODO for this knowledge base 2019
 
+-   [ ] Teams and who is working on what
+-   [ ] Starting points for the components you will need and how they might relate to the project
+-   [ ] I need help/mentoring/what's my level/what do you know?
+-   [ ] Tips to be productive at a hackathon?
+-   [ ] Examples of projects from before and previous winners, and lessons learned.
+-   [ ] What is your role and what can you do to help, were there gaps from last year?
+-   [ ] A hacker is x,y,z, or a glossary, be specific that it doesn't have to be a code, the Es needs different experiences.
+-   [ ] Should we push to a sub-site too? GH pages
 
-- [ ] Teams and who is working on what
-- [ ] Starting points for the components you will need and how they might relate to the project
-- [ ] I need help/mentoring/what's my level/what do you know?
-- [ ] Tips to be productive at a hackathon?
-- [ ] Examples of projects from before and previous winners, and lessons learned.
-- [ ] What is your role and what can you do to help, were there gaps from last year?
-- [ ] A hacker is x,y,z, or a glossary, be specific that it doesn't have to be a code, the Es needs different experiences.
-- [ ] Should we push to a sub-site too? GH pages
-- [ ] Old website still findable? Is it better?
-
----
-
-# The old ETHBerlin Knowledge Base 2018 below
-
-If you're hacking at ETHBerlin, this is your one-stop source of information.
+* * *
 
 ## [Intro presentation (with all hackathon info & links)](https://docs.google.com/presentation/d/1Y6rlDigsMAYDhKTxhZNA9HkFp1mOekEaTllRSEw2pYI/edit?usp=sharing)
 
-![ETHBerlin logo](https://github.com/ethberlin-hackathon/media-assets/raw/master/ETHBerlin%20logo%20-%20horizontal%20transparent%20-%20small.png)
+![ETHBerlin Zwei logo](https://ethberlinzwei.com/img/mainlogo.svg)
 
 <!-- TODO: OUTDATED BY NOW -->
 
@@ -99,21 +93,12 @@ You can also visit the [hacker’s riot chat](https://riot.im/app/#/room/#ethber
 ## Prizes and Bounties
 
 -   [Prizes on Devpost](https://ethberlin.devpost.com/)
--   [Prizes on Github](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues)
+-   [Bounties on Github](https://github.com/ethberlinzwei/Bounties)
 
-<!-- TODO: Guess this changed? -->
 
 -   **Open Track Prize:** This is the main prize of ETHBerlin. There will be 10 winners. The grand bounty is of approximately TBD € and it’s distributed equally. You can calculate it ;)
--   **Sponsor Prizes:** Some of ETHBerlin’s sponsors have their own price awards. They can each pay out a maximum of TBD €. These prizes will be funded and distributed via Gitcoin. Note that ETHBerlin has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
--   **Community Improvement Awards:** These are small prizes endowed with TBD € each by ETHBerlin. Check them out [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
-
-### Bounties
-
-<!-- TODO: Are the bounties at the hackathon, or at the con? Change Link -->
-
-<!-- TODO: Berlin or brln coin? -->
-
-Throughout the event you can participate in a variety of bounties to win some BRLN coin! Browse the bounties [here](bounties.md)
+-   **Sponsor Prizes:** Some of ETHBerlin’s sponsors have their own price awards. They can each pay out a maximum of TBD €. These prizes will be funded and distributed via Gitcoin. Note that ETHBerlin has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here](https://github.com/ethberlinzwei/Bounties/issues).
+-   **Community Improvement Awards:** These are small prizes endowed with TBD € each by ETHBerlin. Check them out [here](https://github.com/ethberlinzwei/Bounties).
 
 **IMPORTANT:** You can submit your work to multiple prize awards, they are not exclusive! For example you can submit your work to the open track bounty and a sponsor specific prize, just make sure to submit it everywhere where you want to participate.
 
@@ -129,7 +114,7 @@ Throughout the event you can participate in a variety of bounties to win some BR
 
 ## Submission of sponsored prizes
 
-Each sponsored prize has a GitHub issue in the [prizes repository]([https://github.com/ethberlin-hackathon/ETHBerlin-Bounties](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/settings/collaboration)). After you've decided which ones you want to apply for, go to the Gitcoin bounty associated with that prize, and click on "Start Work". At the end of judging, the sponsor will decide on a team, and pay out the bounty through Gitcoin.
+Each sponsored prize has a GitHub issue in the [bounties repository](https://github.com/ethberlinzwei/Bounties). After you've decided which ones you want to apply for, go to the Gitcoin bounty associated with that prize, and click on "Start Work". At the end of judging, the sponsor will decide on a team, and pay out the bounty through Gitcoin.
 
 These prizes are different from the Open Track prize and People's choice award.
 
@@ -185,9 +170,9 @@ sleeping bags are not allowed. Please make sure you take this into consideration
 
 ### Tickets
 
-<!-- TODO: What do you bring? And BBW tickets? Register, Dappcon tickets not valid -->
-
 If you are a hacker, mentor, registered sponsor, volunteer, judge or a speaker you don’t need a ticket, just your e-mail confirmation and ID.
+
+Dappcon and other Berlin Blockchain week tickets **are not valid** for the ETHBerlin hackathon.
 
 ### Roles
 
