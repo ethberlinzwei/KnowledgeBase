@@ -12,11 +12,6 @@ choose a token and quantity, and once the work is complete, you can payout the b
 contribute to existing bounties, and topping up the funds available to the issue. Read [this](https://gitcoin.co/funding/new)
 quick explainer if you haven't funded an issue before.
 
-## Main Prize Pool
-
-There will be a main prize pool, paid out to the overall winners (TODO: clarify). You can find
-the issue [here](<>).
-
 ## Hosting Special Prizes
 
 If you want to host special prizes, you can create your own issue in the hackathon's repository, describing the prize

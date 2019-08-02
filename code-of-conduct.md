@@ -1,5 +1,7 @@
 # ETHBerlin Code of Conduct
 
+<!-- TODO: link in main readme -->
+
 We want to come together to exchange ideas, make new friends, and build things as an inclusive, welcoming, and safe community. Any harmful or discriminating behavior by anyone (hackers, speakers, judges, mentors, sponsors, volunteers, organizers, or other attendees) will not be tolerated and results in the offending person(s) being expelled from the event.
 
 Hackers should be judged by their actions, not criteria such as degrees, age, race, nationality, sex, sexual orientation, gender, gender identity or expression, disability, physical appearance, religion (or lack thereof), or position.

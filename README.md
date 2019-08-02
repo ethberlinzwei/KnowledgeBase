@@ -22,6 +22,8 @@ If you're hacking at ETHBerlin, this is your one-stop source of information.
 
 <!-- TODO: OUTDATED BY NOW -->
 
+<!-- TODO: Break out -->
+
 ## Table of Contents
 
 -   [Usage](#usage)
@@ -74,13 +76,11 @@ No! In fact, we welcome anyone who brings different skills to a hackathon. Wethe
 
 There's no need to register your team or idea upfront. Teams are registered when you submit to Devpost on Sunday (see more details below).
 
-<!-- TODO: Link to -->
-
 ### Are you a hacker, looking for a team? Or a team, looking for a hackers?
 
 On Friday at 11.30pm you can find each other in Courtyard 1 (Food courtyard). Don’t be shy. The community is open and everyone attending shares a passion for building open source technologies.
 
-You can also visit the [hacker’s riot chat](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org) (#ethberlinhackers:matrix.org) or the [Team building repo](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding) to find team members.
+You can also visit the [hacker’s riot chat](https://riot.im/app/#/room/#ethberlinhackers:matrix.org) (#ethberlinhackers:matrix.org) or the [Team building repo](https://github.com/ethberlinzwei/Find-A-Team) to find team members.
 
 ## Prizes and Bounties
 
@@ -89,14 +89,13 @@ You can also visit the [hacker’s riot chat](https://matrix.to/#/!WTJBLneNDtLzL
 
 <!-- TODO: Guess this changed? -->
 
--   **Open Track Prize:** This is the main prize of ETHBerlin. There will be 10 winners. The grand bounty is of approximately 75.000 € and it’s distributed equally. You can calculate it ;)
--   **People’s Choice Awards:** Previous Hackathons have showed that people’s favourite teams were not always among the actual winners. At ETHBerlin, we would like to give those projects a chance by rewarding the people’s favorite team with a community prize of 1000€. The winner will be determined from the top 5 teams through an [Olympia](https://blog.gnosis.pm/announcing-gnosis-olympia-5fb7e16dd259?gi=de34dba69451) prediction market tournament. For details go [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues/29). The mentors will vote initially (not on Olympia) to determine the top 5 projects. The top 5 will then be determined through the Olympia prediction market by all of the community as outlined above.
--   **Sponsor Prizes:** Some of ETHBerlin’s sponsors have their own price awards. They can each pay out a maximum of 5000 €. These prizes will be funded and distributed via Gitcoin. Note that ETHBerlin has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
--   **Community Improvement Awards:** These are small prizes endowed with 1000 € each by ETHBerlin. Check them out [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
+-   **Open Track Prize:** This is the main prize of ETHBerlin. There will be 10 winners. The grand bounty is of approximately TBD € and it’s distributed equally. You can calculate it ;)
+-   **Sponsor Prizes:** Some of ETHBerlin’s sponsors have their own price awards. They can each pay out a maximum of TBD €. These prizes will be funded and distributed via Gitcoin. Note that ETHBerlin has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
+-   **Community Improvement Awards:** These are small prizes endowed with TBD € each by ETHBerlin. Check them out [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
 
 ### Bounties
 
-<!-- TODO: Are the bounties at the hackathon, or at the con? -->
+<!-- TODO: Are the bounties at the hackathon, or at the con? Change Link -->
 
 <!-- TODO: Berlin or brln coin? -->
 
@@ -112,7 +111,7 @@ Throughout the event you can participate in a variety of bounties to win some BR
 -   A short **presentation** file must describe your project. It has to be accessible without special tools. Ideally a PDF, Google slides, or even a hosted recording if you like. All the judges need to be able to access the presentations.
 -   You need to provide a link which acts as an entry point to your project. Ideally, this link should be a public repository containing the code, team members, presentations and documentation on how someone can use your code.
 -   Smart contracts must be deployed to a public testnet or the Ethereum mainnet.
--   Submission closes at 11:30 am on Sunday the 25th of August 2019.
+-   Submission closes at 10:00 am on Sunday the 25th of August 2019.
 
 ## Submission of sponsored prizes
 
@@ -139,22 +138,11 @@ To learn more details about the judging process, also read the post on [Medium](
 
 Or "If you liked it then you shoulda put a dApp on it"!
 
-<!-- TODO: Is this true? -->
-
 ETHBerlin will try to use tools created within the ecosystem as much as possible for its needs.
 This paves the way for adoption of web3, which we're all trying to buidl, and acts as a good
 testing ground for the dapps, consequently helping the respective teams to learn from this experience
 and make software even better.
 For more on this, [read this article](https://medium.com/ethberlin/if-you-liked-it-then-you-shoulda-put-a-dapp-on-it-626b032d32a5).
-
-## Communication Channel
-
-<!-- TODO: Isn't this different from above? -->
-
-One of the dapps, mentioned in the article above, that we love and use a lot, is [Status](https://status.im/). Make sure you install it
-and come say hi in the [#ethberlin](https://get.status.im/chat/public/ethberlin) channel. Feel free to ask for
-couches there, or discuss sharing flat with other participants. We also have channels for getting to know each other
-and building teams!
 
 ## Preparation and Planning
 
@@ -181,15 +169,11 @@ mainnet within the next few days, in which case, you can reserve a place with ET
 Due to the regulations of the venue, unfortunately we cannot offer any sleeping facilities on-site, and
 sleeping bags are not allowed. Please make sure you take this into consideration when choosing an accomodation.
 
-<!-- TODO: Is the above still true? -->
-
 ### Tickets
 
+<!-- TODO: What do you bring? And BBW tickets? Register, Dappcon tickets not valid -->
+
 If you are a hacker, mentor, registered sponsor, volunteer, judge or a speaker you don’t need a ticket, just your e-mail confirmation and ID.
-
-<!-- TODO: Updates -->
-
-Community tickets for Day 1 conferences will be launched via Peepeth on a Blockparty Smart Contract on September 1st. All tickets are free. Community tickets do _not_ enable access to the Hackathon or Day 2 & 3 Workshops. Thank you in advance for respecting the hackers and their #BUIDL.
 
 ### Roles
 
@@ -205,8 +189,6 @@ You can find information specific to your role at the Hackathon below:
 ### Schedule
 
 At 22:00 the opening ceremony (accompanied by dinner & drinks) and team formation will take place. The Hackathon kicks off at 00:00 on September 8th.
-
-<!-- TODO: Update -->
 
 -   [**Full Schedule**](https://ethberlinzwei.com/schedule/) includes first-day conference tracks, workshops during the hackathon, etc.
 -   [**Hackathon Schedule**](https://ethberlinzwei.com/hackathon-schedule) includes key hackathon events (registration, etc.) and mealtimes.

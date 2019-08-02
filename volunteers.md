@@ -36,12 +36,10 @@ We have a general community chat already! Find us on Status in the #ethberlin ch
 
 ## Volunteering Onsite Leads
 
-<!-- TODO: Check -->
-
-Simon and Daniel will be there over the weekend for any questions you have or problems you cannot solve on your own.
+Franzi and Raul will be there over the weekend for any questions you have or problems you cannot solve on your own.
 
 ## Shift Scheduling & Volunteer Specific information
 
-<!-- TODO: Update -->
+<!-- TODO: Update, ask them -->
 
 We will finish the shift scheduling about 1 week prior to the event and you will receive it via e-mail together before the prep call on 29th. Special information like floorplans, etc. will be sent to volunteers before the event or handed out in our prep meeting on September 7th.
