@@ -11,7 +11,7 @@ This repository of knowledge will guide you getting started with ETHBerlin, Ethe
 - Check for updates on: https://ethberlinzwei.com/
 - Find the old knowledge base from last year at: https://github.com/ethberlin-hackathon/ETHBerlin-KnowledgeBase
 
-### @TODO for this knowlege base 2019
+### @TODO for this knowledge base 2019
 
 
 - [ ] Teams and who is working on what
