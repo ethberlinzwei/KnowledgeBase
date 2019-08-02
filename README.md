@@ -1,18 +1,32 @@
-Teams and who is working on what
-Starting points for the components you will need and how they might relate to the project
-I need help/mentoring/what's my level/what do you know?
-Tips to be productive at a hackathon?
-Examples of projects from before and previous winners, and lessons learned.
-What is your role and what can you do to help, were there gaps from last year?
-A hacker is x,y,z, or a glossary, be specific that it doesn't have to be a code, the Es needs different experiences.
+# ETHBerlin Zwei Knowledge Base 2019
 
-Should we push to a sub-site too? GH pages
+This repository of knowledge will guide you getting started with ETHBerlin, Ethereum, blockchain, and decentralized application development in general.
 
-Old website still findable? Is it better?
+### TL;DR
 
-* * *
+- Find a team on Github: https://github.com/ethberlinzwei/Find-A-Team
+- Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://webchat.weho.st/#/room/#ethberlinhackers:matrix.org)
+- Contribute to the knowledge base on Riot: [#ethberlinzwei-kb:chat.weho.st](https://webchat.weho.st/#/room/#ethberlinzwei-kb:chat.weho.st)
+- Sign up for ETHBerlin Zwei on Devpost: https://ethberlin.devpost.com/
+- Check for updates on: https://ethberlinzwei.com/
+- Find the old knowledge base from last year at: https://github.com/ethberlin-hackathon/ETHBerlin-KnowledgeBase
 
-# ETHBerlin Knowledge Base
+### @TODO for this knowlege base 2019
+
+
+- [ ] Teams and who is working on what
+- [ ] Starting points for the components you will need and how they might relate to the project
+- [ ] I need help/mentoring/what's my level/what do you know?
+- [ ] Tips to be productive at a hackathon?
+- [ ] Examples of projects from before and previous winners, and lessons learned.
+- [ ] What is your role and what can you do to help, were there gaps from last year?
+- [ ] A hacker is x,y,z, or a glossary, be specific that it doesn't have to be a code, the Es needs different experiences.
+- [ ] Should we push to a sub-site too? GH pages
+- [ ] Old website still findable? Is it better?
+
+---
+
+# The old ETHBerlin Knowledge Base 2018 below
 
 If you're hacking at ETHBerlin, this is your one-stop source of information.
 
