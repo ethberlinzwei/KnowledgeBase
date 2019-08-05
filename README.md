@@ -117,16 +117,6 @@ Sponsored prizes are judged by the respective sponsor, and have different judgin
 
 To learn more details about the judging process, also read the post on [Medium](https://medium.com/ethberlin/open-sourcing-our-judging-process-75b77f6ba459)
 
-## Commitment to Using Dapps
-
-Or "If you liked it then you shoulda put a dApp on it"!
-
-ETHBerlin will try to use tools created within the ecosystem as much as possible for its needs.
-This paves the way for adoption of web3, which we're all trying to buidl, and acts as a good
-testing ground for the dapps, consequently helping the respective teams to learn from this experience
-and make software even better.
-For more on this, [read this article](https://medium.com/ethberlin/if-you-liked-it-then-you-shoulda-put-a-dapp-on-it-626b032d32a5).
-
 ## Preparation and Planning
 
 _For everyone_
@@ -145,9 +135,6 @@ everyone to allow those who benefit most make use of these subsidies. To apply p
 
 There are a variety of accommodation options available in Berlin. From hostels to
 airbnb flats and hotels. We recommend the regions Treptow, Kreuzberg or Friedrichshain due to their proximity to the venue.
-As part of our commitment to using dapps extensively throughout the hackathon, we're in close contact
-with the team behind [Winding Tree](https://windingtree.com/), and most probably they will launch to
-mainnet within the next few days, in which case, you can reserve a place with ETH or LIF, their native token.
 
 Due to the regulations of the venue, unfortunately we cannot offer any sleeping facilities on-site, and
 sleeping bags are not allowed. Please make sure you take this into consideration when choosing an accomodation.
