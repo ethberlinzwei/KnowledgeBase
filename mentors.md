@@ -22,8 +22,6 @@ Hackers will look to you for guidance and support. You are there to help and gui
 
 ## How to help
 
-<!-- TODO: Investigate and research. Phillip -->
-
 We encourage our hackers to all send in their requests for support the same way. We are using [HELPq](http://ehz.io/HELPq-data/) - a simple web-interface for hackers to submit a ticket to. All the mentors will have access to this ticket queue and be able to pull a ticket from.
 
 You received login information in the welcome e-mail.
