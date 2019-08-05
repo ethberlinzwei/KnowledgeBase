@@ -13,14 +13,11 @@ This repository of knowledge guides you through getting started with ETHBerlin, 
 
 ## @TODO for this knowledge base 2019
 
--   [ ] Teams and who is working on what
--   [ ] Starting points for the components you will need and how they might relate to the project
 -   [ ] I need help/mentoring/what's my level/what do you know?
 -   [ ] Tips to be productive at a hackathon?
 -   [ ] Examples of projects from before and previous winners, and lessons learned.
 -   [ ] What is your role and what can you do to help, were there gaps from last year?
 -   [ ] A hacker is x,y,z, or a glossary, be specific that it doesn't have to be a code, the Es needs different experiences.
--   [ ] Should we push to a sub-site too? GH pages
 
 * * *
 
@@ -29,8 +26,6 @@ This repository of knowledge guides you through getting started with ETHBerlin, 
 ![ETHBerlin Zwei logo](https://ethberlinzwei.com/img/mainlogo.svg)
 
 <!-- TODO: OUTDATED BY NOW -->
-
-<!-- TODO: Break out -->
 
 ## Table of Contents
 
@@ -177,8 +172,6 @@ Dappcon and other Berlin Blockchain week tickets **are not valid** for the ETHBe
 ### Roles
 
 You can find information specific to your role at the Hackathon below:
-
-<!-- TODO: Some missing? -->
 
 | [Hackers](hackers.md) | [Volunteers](volunteers.md) | [Speakers](<>) | [Mentors](mentors.md) | [Judges](judges.md) | [Sponsors](sponsors.md) | [Community Members](community-members.md) | [Organization Team](<>) |
 | --------------------- | --------------------------- | -------------- | --------------------- | ------------------- | ----------------------- | ----------------------------------------- | ----------------------- |
