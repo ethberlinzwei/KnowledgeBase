@@ -92,6 +92,11 @@ Code examples:
 - [js](https://github.com/libp2p/js-libp2p/tree/master/examples)
 - [rust](https://github.com/libp2p/rust-libp2p/tree/master/examples)
 
+If you're working with go, be sure to [check
+out](https://github.com/libp2p/go-libp2p-examples/tree/master/ipfs-camp-2019)
+the examples and docs for IPFS Camp 2019! There's some great material there,
+including examples for pubsub and writing custom protocols.
+
 Detailed specs are available in the [specs
 repository](https://github.com/libp2p/specs) for most core libp2p wire
 protocols and abstractions.
