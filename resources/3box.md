@@ -1,38 +1,48 @@
-# 3Box
+# [3Box](https://3box.io)
+3Box is the best way for developers to manage user data on the decentralized web!
 
-3Box is a next-generation framework for managing user data on the internet. 3Box storage is simple, secure, and private by design. Apps that store data with users on 3Box are lighter, more trustworthy, and enjoy reduced data management liability. The suite of 3Box APIs enable delightful user experiences on web3, helping you build with social profiles, messaging, single sign on, data storage and sharing.
+#### What is 3Box
+3Box is a secure and decentralized user data storage system. It's the easiest way for developers to build engaging, fully-featured web apps without needing to run a backend for managing user data. The [3Box JavaScript SDK](https://docs.3box.io/build/web-apps) provides easy-to-use [APIs](https://docs.3box.io/products) for identity, auth, profiles, storage, and messaging that help you build better apps, faster. 
 
-## Features
+#### Why 3Box
+- Build fully-featured dapps with less backend infrastructure
+- Develop faster with easy-to-use APIs and tooling
+- Reliable decentralized storage on IPFS and OrbitDB
+- Improve security and privacy of user data
+- Support data portability and interoperability
+- Users can use their ETH account, don't need to install additional software
 
--   Feature
--   Feature
+## 3Box SDK and APIs
+We offer `3Box.js`, a JavaScript SDK that makes it easy to add these APIs to your serverless web application. *Learn more [here](https://docs.3box.io/build/web-apps).*
+
+-   [**👩 Profiles**](https://docs.3box.io/build/web-apps/profiles): Replace hex addresses with social user profiles throughout your app. Set/get public and private data to/from a user's profile. Profiles are great for storing things like name, image, group affiliations, social account verifications, and more in a location that is easily shared across apps.
+
+-   [**📂 Storage**](https://docs.3box.io/build/web-apps/storage): Allow users to store their own content. Set/get public or private data to/from spaces, which are sandboxed data stores used to keep information specific to an application or context. Spaces are great for user-generated content, documents, preferences, settings, secrets, and more sensitive information.
+
+-   [**💬 Messaging**](https://docs.3box.io/build/web-apps/messaging): Create interactive message threads between 1 or many users, with support for moderation. Great for social messaging, commenting, forums, and chat systems; also great for creating single or multi-user content streams/feeds and directly sharing data between users.
+
+## Other 3Box Tools
+
+- [**3️⃣ 3Box Hub**](https://3box.io/hub): A optional web interface where end users can create and manage their social profile, as well as their personal storage drive. Users can link their Twitter and Github social accounts to their Ethereum profile, and privately verify their email address.
+
+- [**⚡ Profile Hovers**](https://github.com/3box/profile-hover): A plugin that allows you to display 3Box social profile information about an ethereum user in a hover component, similar to twitter's profile hover cards. Available as a react component or HTML element.
 
 ## Prizes Offered
 
-1.
-2.
+- [**🏆 Best Overall 3Box Integration**](https://github.com/ethberlinzwei/KnowledgeBase/issues/3)
+
+- [**🙌 Most Social Application**](https://github.com/ethberlinzwei/KnowledgeBase/issues/4)
+
+- [**📂 Best Use of Storage Spaces**](https://github.com/ethberlinzwei/KnowledgeBase/issues/5)
 
 ## Getting Started
 
-1.  [Sign up at the 3Box hub](https://3box.io/hub).
-2.  Integrate 3Box into your app with [3box-js](https://github.com/3box/3box-js)
+- **Integrate 3Box into your app**: Visit the 3Box SDK [installation guide](https://docs.3box.io/build/web-apps/install)
+- **Try creating a user profile**: Visit the [3Box Hub](https://3box.io/hub) application
 
-```shell
-npm install 3box
-```
 
-Import the 3box module
+## Need Help?
 
-```javascript
-const Box = require('3box')
-```
-
-Import using the dist build in your html code
-
-```html
-<script type="text/javascript" src="../dist/3box.js"></script>
-```
-
-## Need Help
-
-If you need help with 3Box, they have a [discord](https://discordapp.com/channels/484729862368526356/485438421054128128) channel. You can find more developer documentation on [GitHub](https://github.com/3box/3box-js).
+- **Chat with us**: Join our ETHBerlin [discord](https://discord.gg/wJ8dz8B) channel
+- **Read the docs**: Visit our [documentation site](https://docs.3box.io) to learn more about the 3Box [network](https://docs.3box.io/why-3box), [JavaScript SDK](https://docs.3box.io/build/web-apps), and [APIs](https://docs.3box.io/products)
+- **Visit our website**: Learn more at https://3box.io
