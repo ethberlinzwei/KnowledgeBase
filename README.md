@@ -75,21 +75,10 @@ That's fine, you are most welcome here, everyone brings valuable skills to a hac
 
 No! In fact, we welcome anyone who brings different skills to a hackathon. Wether you want to help as a designer, project manager, give UX advice, write documentation, or something else. Often the projects that do well at hackathons are the ones that focus on more than just code.
 
-## Team formation
-
-There's no need to register your team or idea upfront. Teams are registered when you submit to Devpost on Sunday (see more details below).
-
-### Are you a hacker, looking for a team? Or a team, looking for a hackers?
-
-On Friday at 11.30pm you can find each other in Courtyard 1 (Food courtyard). Don’t be shy. The community is open and everyone attending shares a passion for building open source technologies.
-
-You can also visit the [hacker’s riot chat](https://riot.im/app/#/room/#ethberlinhackers:matrix.org) (#ethberlinhackers:matrix.org) or the [Team building repo](https://github.com/ethberlinzwei/Find-A-Team) to find team members.
-
 ## Prizes and Bounties
 
 -   [Prizes on Devpost](https://ethberlin.devpost.com/)
 -   [Bounties on Github](https://github.com/ethberlinzwei/Bounties)
-
 
 -   **Open Track Prize:** This is the main prize of ETHBerlin. There will be 10 winners. The grand bounty is of approximately TBD € and it’s distributed equally. You can calculate it ;)
 -   **Sponsor Prizes:** Some of ETHBerlin’s sponsors have their own price awards. They can each pay out a maximum of TBD €. These prizes will be funded and distributed via Gitcoin. Note that ETHBerlin has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here](https://github.com/ethberlinzwei/Bounties/issues).
