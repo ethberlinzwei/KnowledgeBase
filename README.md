@@ -55,6 +55,7 @@ Before the hackathon:
 
 During the hackathon:
 - [Resources and Documentation](./resources.md)
+- [Experiences at ETHBerlin Zwei](./experiences.md)
 - [Prizes and Bounties](./bounties.md)
 - [Mentors and Getting Help](./mentors.md)
 - [Judges and Judging](./judges.md)
