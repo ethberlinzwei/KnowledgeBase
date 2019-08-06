@@ -1,3 +1,7 @@
+`<<` Back to [Bounties](./bounties.md) |  Continue to [Judging](./judges.md) `>>`
+
+---
+
 # To The ETHBerlin Mentors
 
 Thank you so much for helping our hackers as a mentor during ETHBerlin!
@@ -39,3 +43,7 @@ We will be there over the weekend to support the mentors on-site if you have que
 
 If you have any questions along the way or can't access any of the mentorship-specific tools (our Riot chat or ticket system), please reach out!
 For all the general event infos, please go to the [ETHBerlin website](https://ethberlinzwei.com) or the general [ETHBerlin Knowledge Base](https://github.com/ethberlinzwei/KnowledgeBase).
+
+---
+
+`<<` Back to [Bounties](./bounties.md) |  Continue to [Judging](./judges.md) `>>`
