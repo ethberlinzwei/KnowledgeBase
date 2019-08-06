@@ -2,15 +2,21 @@
 
 ---
 
-# To The ETHBerlin Mentors
+# Hackers: Find-a-Mentor!
 
-Thank you so much for helping our hackers as a mentor during ETHBerlin!
+Ooops! You had an amazing idea, but now you are stuck? No worries, our experienced mentors will help you as best as they can. And here's how to get in touch:
 
-Mentoring is an important part of the hackathon! You will help our hackers build the best things possible!
+1. Spot them at the venue! They are usually wearing colorful shirts!
+1. Discuss your issues in the [hackers channel on riot](https://riot.im/app/#/room/#ethberlinhackers:matrix.org), mentors will monitor it closely.
+1. Post your question in our mentor system, `HELPq`. _The link will be available as-soon-as-possible(tm)._
 
-If you haven't done so, please read our [medium post](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) on what it means to mentor.
+---
 
-## Code of Mentor
+# Mentors: Please read!
+
+Thank you so much for helping our hackers as a mentor during ETHBerlin Zwei! Mentoring is an important part of the hackathon, you will help our hackers build the best things possible.
+
+If you haven't done so, please read our [medium post](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) from last year on what it means to mentor.
 
 ### You are mentoring 1st and hacking 2nd
 
@@ -28,11 +34,11 @@ Hackers will look to you for guidance and support. You are there to help and gui
 
 We encourage our hackers to all send in their requests for support the same way. We are using [HELPq](http://ehz.io/HELPq-data/) - a simple web-interface for hackers to submit a ticket to. All the mentors will have access to this ticket queue and be able to pull a ticket from.
 
-You received login information in the welcome e-mail.
+You should have received login information in the welcome e-mail.
 
 ## Communications during the event
 
-You will receive welcome e-mail with the link to our mentorship orga [Riot](https://riot.im/) chat. If you can't find it, please send your Riot handle to one of the mentorship leads. They will then add you to the channel.
+You will receive welcome e-mail with the link to our mentorship orga Riot chat. If you can't find it, please send your Riot handle to one of the mentorship leads. They will then add you to the channel.
 
 ## Mentorship On-Site Leads
 
@@ -42,7 +48,8 @@ We will be there over the weekend to support the mentors on-site if you have que
 -   Caspar
 
 If you have any questions along the way or can't access any of the mentorship-specific tools (our Riot chat or ticket system), please reach out!
-For all the general event infos, please go to the [ETHBerlin website](https://ethberlinzwei.com) or the general [ETHBerlin Knowledge Base](https://github.com/ethberlinzwei/KnowledgeBase).
+
+For all the general event infos, please go to the [ETHBerlin Zwei website](https://ethberlinzwei.com) or continue reading the general [ETHBerlin Zwei Knowledge Base](https://github.com/ethberlinzwei/KnowledgeBase).
 
 ---
 
