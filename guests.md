@@ -1,5 +1,13 @@
-# Community Members
+`<<` Back to [Volunteering](./volunteers.md) | Continue to [Resources](./resources.md) `>>`
 
-Attendance in the hackathon is limited to participants (hackers, mentors, etc.) only. This is to ensure that the teams will be able to concentrate on their projects. We thank you for your understanding.
+---
 
-BUT, this doesn't mean we don't have anything planned for you. On the contrary, there's a whole week of events planned around ETHBerlin for which we encourage you to [apply](https://blockchainweek.berlin/).
+# Community Members and Guest Access
+
+Attendance in the hackathon is limited to **participants only**: hackers, mentors, judges, speakers, and sponsors. This is to ensure that the teams will be able to focus on their projects. We ask you to understand and respect this.
+
+_However_, this doesn't mean we don't have anything planned for you. On the contrary, there's a whole week of events planned around ETHBerlin Zwei for which we encourage you to checkout the satelite events of the [Berlin Blockchain Week](https://blockchainweek.berlin/).
+
+---
+
+`<<` Back to [Volunteering](./volunteers.md) | Continue to [Resources](./resources.md) `>>`
