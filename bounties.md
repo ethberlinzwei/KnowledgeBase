@@ -1,3 +1,8 @@
+`<<` Back to [Experiences](./experiences.md) | Continue to [Getting Help](./mentors.md) `>>`
+
+---
+
+
 # Prizes and Bounties
 
 -   [Prizes on Devpost](https://ethberlin.devpost.com/)
@@ -49,3 +54,7 @@ This paves the way for adoption of web3, which we're all trying to buidl, and ac
 testing ground for the dapps, consequently helping the respective teams to learn from this experience
 and make software even better.
 For more on this, [read this article](https://medium.com/ethberlin/if-you-liked-it-then-you-shoulda-put-a-dapp-on-it-626b032d32a5).
+
+---
+
+`<<` Back to [Experiences](./experiences.md) | Continue to [Getting Help](./mentors.md) `>>`
