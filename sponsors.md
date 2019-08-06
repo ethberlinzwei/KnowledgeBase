@@ -1,3 +1,7 @@
+`<<` Back to [Judging](./judges.md) | Continue to [Code of Conduct](./code-of-conduct.md) `>>`
+
+---
+
 # Sponsors
 
 Thanks for sponsoring ETHBerlin!
@@ -18,3 +22,7 @@ If you want to host special prizes, you can create your own issue in the hackath
 and judging/acceptance criteria, and then fund it through Gitcoin. To get an idea how the issue will look like
 you can either have a look at the issue for the main prize pool, or [issues](https://github.com/JoinColony/colonyHackathon/issues/42) created for the colony hackathon
 after which ETHBerlin's funding is modeled.
+
+---
+
+`<<` Back to [Judging](./judges.md) | Continue to [Code of Conduct](./code-of-conduct.md) `>>`
