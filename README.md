@@ -48,7 +48,7 @@ No! In fact, we **welcome anyone who brings different skills** to a hackathon. W
 
 ## Dive into the Knowledge Base
 Before the hackathon:
-- [ETHBerlin Zwei at Glance](./the-event.md)
+- [Prepare for ETHBerlin Zwei](./the-event.md)
 - [Hackers and team formation](./hackers.md)
 - [Volunteering at ETHBerlin Zwei](./volunteers.md)
 - [Community Members and Guest Access](./community-members.md)
