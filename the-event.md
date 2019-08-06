@@ -1,4 +1,4 @@
-`<<` Back to the [General Overview](./README.md) | Continue to [Hackers and team formation](./hackers.md) `>>`
+`<<` Back to the [Overview](./README.md) | Continue to [Hackers](./hackers.md) `>>`
 
 ---
 
@@ -54,4 +54,4 @@ ETHBerlin Zwei will **cover all meals and drinks for the entire Hackathon**, and
 
 ---
 
-`<<` Back to the [General Overview](./README.md) | Continue to [Hackers and team formation](./hackers.md) `>>`
+`<<` Back to the [Overview](./README.md) | Continue to [Hackers](./hackers.md) `>>`
