@@ -11,7 +11,7 @@ This repository of knowledge guides you through getting started with ETHBerlin, 
 -   Check for updates on: <https://ethberlinzwei.com>
 -   Find the old knowledge base from last year at: <https://github.com/ethberlin-hackathon/ETHBerlin-KnowledgeBase>
 
-![ETHBerlin Zwei logo](https://ethberlinzwei.com/img/mainlogo.svg)
+![ETHBerlin Zwei logo](./assets/mainlogo.png)
 
 ## What is ETHBerlin Zwei?
 We assume if you're reading this document, that you know what ETHBerlin Zwei is, but to recap: ETHBerlin Zwei is a combination of a hackathon, experiences, workshops and talks, happening from 21st till 25th of August 2019 in Berlin, Germany.
