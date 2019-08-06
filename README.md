@@ -32,8 +32,6 @@ The Hackathon takes place between the 23rd and 25th of August at **Factory Görl
 - Google Maps: <https://goo.gl/maps/ZCEGLYLUSqVYJdMv6>
 - See also: <https://ethberlinzwei.com/>
 
-
-
 ## The Hack?!? What is a hackathon?
 There are different types of Hackathon, but the one at ETHBerlin Zwei has two purposes:
 
@@ -46,12 +44,12 @@ That's fine, you are most welcome here, everyone brings valuable skills to a hac
 ## Do I have to be a developer?
 No! In fact, we **welcome anyone who brings different skills** to a hackathon. Wether you want to help as a designer, project manager, give UX advice, write documentation, or something else. Often the projects that do well at hackathons are the ones that focus on more than just code.
 
-## Dive into the Knowledge Base
+## Dive into the Knowledge Base!
 Before the hackathon:
 - [Prepare for ETHBerlin Zwei](./the-event.md)
 - [Hackers and team formation](./hackers.md)
 - [Volunteering at ETHBerlin Zwei](./volunteers.md)
-- [Community Members and Guest Access](./community-members.md)
+- [Community Members and Guest Access](./guests.md)
 
 During the hackathon:
 - [Resources and Documentation](./resources.md)
