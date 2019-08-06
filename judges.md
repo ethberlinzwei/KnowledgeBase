@@ -2,7 +2,7 @@
 
 ---
 
-# Judges and Judging
+# Judging
 
 -   **Submission closes at 10:00am on Sunday** the 25th of August 2019.
 -   Judging for the Open Track Prize will happen based on what was submitted via Devpost.
