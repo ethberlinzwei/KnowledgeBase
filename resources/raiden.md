@@ -33,9 +33,9 @@ Supporting features/products:
 
 ## Prizes Offered
 
--
--
--
+- **👨‍💻 [Raiden User Experience Challenge](https://github.com/ethberlinzwei/Bounties/issues/9)**
+- **💸 [Raiden Micropayments Challenge](https://github.com/ethberlinzwei/Bounties/issues/8)**
+- **🤖 [Raiden IoT Challenge](https://github.com/ethberlinzwei/Bounties/issues/7)**
 
 ## Getting Started
 
