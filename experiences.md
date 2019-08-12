@@ -29,6 +29,9 @@ Does what it says on the tin. Take a break while your code is compiling and come
 ## Chill out areas
 If you need to recharge your meatspace batteries, take a power nap in a quiet, secluded room with beanbags and ambient lighting.  
 
+## Cryptoartlab Silkscreen Experience
+Bring your tshirts, jackets, bags, whatever you want, and have them silkscreened by the cypherpunk artist Martin Fischer of cryptoartlab.com
+
 ---
 
 # Public Keys
