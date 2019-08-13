@@ -9,7 +9,7 @@ Waves is an open-source blockchain platform for cutting-edge dApps - giving you 
     -   Wallet - <https://client.wavesplatform.com>
     -   Explorer - <https://wavesexplorer.com>
     -   DEX (decentalised exchange) - <https://client.wavesplatform.com/dex>
-    -   And access to all of the above via APIs
+-   access to all of the products via APIs
 -   decentralised applications development - RIDE for dApps
 -   client libraries for the different programming languages
 -   tokens issuing and decentralised trading
