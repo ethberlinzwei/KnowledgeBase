@@ -4,25 +4,16 @@ Waves is an open-source blockchain platform for cutting-edge dApps - giving you 
 
 ## Features
 
-Waves products:
-
--   Keeper - <https://wavesplatform.com/products-keeper>
--   Wallet - <https://client.wavesplatform.com>
--   Explorer - <https://wavesexplorer.com>
--   DEX (decentalised exchange) - <https://client.wavesplatform.com/dex> and the access to them via API
-
-Features:
-
+-   Waves products:
+    -   Keeper - <https://wavesplatform.com/products-keeper>
+    -   Wallet - <https://client.wavesplatform.com>
+    -   Explorer - <https://wavesexplorer.com>
+    -   DEX (decentalised exchange) - <https://client.wavesplatform.com/dex>
+-   access to all of the products via APIs
 -   decentralised applications development - RIDE for dApps
 -   client libraries for the different programming languages
 -   tokens issuing and decentralised trading
 -   node owning and mining rewards
-
-## Resources
-
--   [Waves Documentation](https://docs.wavesplatform.com/)
--   [Waves GitHub](https://github.com/wavesplatform)
--   [Waves Awesome](https://github.com/msmolyakov/awesome-waves)
 
 ## Get started
 
@@ -34,11 +25,17 @@ After building a decentralised application you will have to create a user interf
 
 ## Prizes offered
 
-First place: <strong>1000 Waves</strong><br>
-Second place: <strong>500 Waves</strong><br>
-Third place: <strong>250 Waves</strong><br>
+1.  First place: **1000 Waves**
+2.  Second place: **500 Waves**
+3.  Third place: **250 Waves**
 
-All projects are welcome to [Waves Labs](https://waveslabs.com/) where you can apply for a Waves grant after a hackathon if you decide to keep working on your solution. A sum of **34500 Waves** has already been disbursed between the projects.
+All projects are welcome to [Waves Labs](https://waveslabs.com/) where you can apply for a Waves grant after a hackathon if you decide to keep working on your solution. A sum of **81465 Waves** has already been disbursed between around 30 projects.
+
+## Useful links
+
+-   [Waves Documentation](https://docs.wavesplatform.com/)
+-   [Waves GitHub](https://github.com/wavesplatform)
+-   [Waves Awesome List](https://github.com/msmolyakov/awesome-waves)
 
 ## Need Help?
 
