@@ -17,7 +17,7 @@ This year, there are different prize categories available.
 
 -   **Open Track Prize:** This is the main prize of ETHBerlin Zwei. There will be 10 winners. The grand bounty will be revealed soon!
 -   **Sponsor Prizes:** Some of ETHBerlin’s sponsors have their own prize awards. Note that ETHBerlin Zwei has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here on Github](https://github.com/ethberlinzwei/Bounties/issues).
--   **Community Improvement Awards:** These are small prizes endowed with 0,00 € each by ETHBerlin Zwei. Check them out [here](https://github.com/ethberlinzwei/Bounties).
+-   **Community Improvement Awards:** These are small prizes endowed by ETHBerlin Zwei. Check them out [here](https://github.com/ethberlinzwei/Bounties), more will be added in the next week.
 
 You can submit your work to multiple prize awards, they are not exclusive! For example you can submit your work to the open track bounty and a sponsor specific prize, just make sure to submit it everywhere where you want to participate.
 
@@ -33,7 +33,7 @@ You can submit your work to multiple prize awards, they are not exclusive! For e
 
 ### Submission of sponsored prizes
 
-Each sponsored prize has a GitHub issue in the [bounties repository](https://github.com/ethberlinzwei/Bounties). After you've decided which ones you want to apply for, go to the Gitcoin bounty associated with that prize, and click on _"Start Work"_. At the end of judging, the sponsor will decide on a team, and pay out the bounty through Gitcoin.
+Each sponsored prize has a GitHub issue in the [bounties repository](https://github.com/ethberlinzwei/Bounties). After you've decided which ones you want to apply for, go to the Gitcoin bounty associated with that prize, and click on _"Start Work"_. At the end of judging, the sponsor will decide on a team, and pay out the bounty.
 
 These prizes are different from the Open Track prize and People's choice award.
 
