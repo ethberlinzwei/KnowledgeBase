@@ -35,8 +35,11 @@ Bring your tshirts, jackets, bags, whatever you want, and have them silkscreened
 ---
 
 # Public Keys
-ETHBerlinZwei is a liminal space(time); all who attend will be given EtherCards to mark the occasion. At the request of some, the public keys for all ETHBerlin cards will be published here so that experiences may choose to gift, authorize, or otherwise make use of the public set of all ETHBerlinners.
+ETHBerlinZwei is a liminal space(time); all who attend will be given EtherCards to mark the occasion.
 
+The set of all 600 public addresses is available for all to use for any purposes that embiggen the overall cromulence of ETHBerlinZwei as an experience, and further the sysyphian task of solving #molochproblems.
+
+[ETHBerlinZwei_addresses](./resources/ethberlin_2019_addresses.txt)
 ---
 
 `<<` Back to [Resources](./resources.md) | Continue to [Bounties](./bounties.md) `>>`
