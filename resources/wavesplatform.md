@@ -1,35 +1,26 @@
 # Waves Platform
 
-Waves is an open-source blockchain platform for cutting-edge dApps - giving you the tools to build your own incredible Web 3.0 solutions. There is a huge ecosystem that can be used for developing and blockchain using. Learn more about it on the [official website](https://wavesplatform.com/).
+Waves is an open-source blockchain platform for cutting-edge dApps - giving you the tools to build your own incredible Web 3.0 solutions. There is a huge ecosystem that can be used for developing and blockchain using. Learn more about it on the [official website](https://wavesplatform.com/) and join our community by creating your decentralised applications!
 
 
 
 ### Features
 
-- Waves products advantages via APIs:
-
-  Keeper - https://wavesplatform.com/products-keeper <br>
+- Waves products:<br>
+  Keeper - https://wavesplatform.com/products-keeper<br>
   Wallet - https://client.wavesplatform.com/<br>
   Explorer - https://wavesexplorer.com/<br>
-  DEX - https://client.wavesplatform.com/dex<br>
-
-- decentralised applications development
-
-- smart contracts on RIDE coding
-
-- [client libraries](https://docs.wavesplatform.com/en/getting-started/getting-started-for-developers.html#section-08a13db1866dad205a6e3ac4c69d02c4) for the main programming languages
-
-- decentralised exchange API
-
-- tokens issuing
-
+  DEX (decentalised exchange) - https://client.wavesplatform.com/dex<br><br>
+  and the access to them via API
+  
+- decentralised applications development - RIDE for dApps
+- client libraries for the different programming languages
+- tokens issuing and decentralised trading
 - node owning and mining rewards
 
 
 
 ## Resources
-
-Main sources you will need for developing:
 
 - [Waves Documentation](https://docs.wavesplatform.com/)
 - [Waves GitHub](https://github.com/wavesplatform)
@@ -37,7 +28,7 @@ Main sources you will need for developing:
 
 
 
-#### Get started
+### Get started
 
 First of all, you have to try the main instrument you will use for building dApps - **RIDE programming language**. Its [description](https://wavesplatform.com/products-ride) is available on the official website. The simplest way to get started coding on RIDE is by learning this [introduction](https://github.com/KardanovIR/ride-introduction). 
 Moreover, you can read the [Quickstart article](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) and build your first dApp. The needed development tools are also listed in this article in the **Tooling** section. 
