@@ -1,12 +1,13 @@
 `<<` Back to [Experiences](./experiences.md) | Continue to [Getting Help](./mentors.md) `>>`
 
----
+* * *
 
 # Prizes and Bounties
 
 What a lame hackathon this could be without any prizes, bounties, and an incredible award ceremony. Fear no more, here's the prizes and bounties documentation.
 
 ## TL;DR
+
 -   Review all the available [Prizes on Devpost](https://ethberlin.devpost.com/)
 -   Find additional hackathon [Bounties on Github](https://github.com/ethberlinzwei/Bounties)
 
@@ -14,8 +15,8 @@ What a lame hackathon this could be without any prizes, bounties, and an incredi
 
 This year, there are different prize categories available.
 
--   **Open Track Prize:** This is the main prize of ETHBerlin Zwei. There will be 10 winners. The grand bounty is of approximately 0,00 € and it’s distributed equally. You can calculate it ;)
--   **Sponsor Prizes:** Some of ETHBerlin’s sponsors have their own price awards. They can each pay out a maximum of 0,00 €. These prizes will be funded and distributed via Gitcoin. Note that ETHBerlin Zwei has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here on Github](https://github.com/ethberlinzwei/Bounties/issues).
+-   **Open Track Prize:** This is the main prize of ETHBerlin Zwei. There will be 10 winners. The grand bounty will be revealed soon!
+-   **Sponsor Prizes:** Some of ETHBerlin’s sponsors have their own prize awards. Note that ETHBerlin Zwei has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards [here on Github](https://github.com/ethberlinzwei/Bounties/issues).
 -   **Community Improvement Awards:** These are small prizes endowed with 0,00 € each by ETHBerlin Zwei. Check them out [here](https://github.com/ethberlinzwei/Bounties).
 
 You can submit your work to multiple prize awards, they are not exclusive! For example you can submit your work to the open track bounty and a sponsor specific prize, just make sure to submit it everywhere where you want to participate.
@@ -36,6 +37,6 @@ Each sponsored prize has a GitHub issue in the [bounties repository](https://git
 
 These prizes are different from the Open Track prize and People's choice award.
 
----
+* * *
 
 `<<` Back to [Experiences](./experiences.md) | Continue to [Getting Help](./mentors.md) `>>`
