@@ -5,7 +5,7 @@
 # Judging
 
 -   **Submission closes at 10:00am on Sunday** the 25th of August 2019.
--   Judging for the Open Track Prize will happen based on what was submitted via Devpost.
+-   Judging for the Open Track Prize will happen based on what was submitted via [Devpost](https://zwei.devpost.com/).
 -   After your submission the judging team will check you met the submission guidlines and leave a comment on your GitHub repository, **starting at around 10am**.
 -   Judging will happen on the 3rd floor.
 -   Each project will be judged by two different judging groups to reduce subjective opinion.

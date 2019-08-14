@@ -8,7 +8,7 @@ What a lame hackathon this could be without any prizes, bounties, and an incredi
 
 ## TL;DR
 
--   Review all the available [Prizes on Devpost](https://ethberlin.devpost.com/)
+-   Review all the available [Prizes on Devpost](https://zwei.devpost.com/)
 -   Find additional hackathon [Bounties on Github](https://github.com/ethberlinzwei/Bounties)
 
 ## Prizes
