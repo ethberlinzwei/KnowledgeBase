@@ -7,7 +7,7 @@ Go-ethereum (or Geth for short) is one of the most widely used client implementa
 - Dev mode. Run a private network with an account already having a practically infinite amount of ether. 
 - GraphQL to query a local node.  Start geth with `geth --graphql`, then point your browser to http://localhost:8547 where you can enter and execute GraphQL queries.
 - Puppeth to manage a private network. See `puppeth -h` after you installed Geth.
-- [Clef](https://geth.ethereum.org/clef/Overview) to sign transactions in a secure way, independently from the cllient's account management.
+- [Clef](https://geth.ethereum.org/clef/Overview) to sign transactions in a reasonably secure way, independently from the cllient's account management.
 - [Tracing](https://geth.ethereum.org/developers/Tracing_Introduction)
 
 ## Getting Started
