@@ -31,7 +31,7 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 
 ## Other Resources
 
--   [Parity light.js](https://parity-js.github.io/light.js/getting-started/installation.html) - A high-level reactive JS library optimized for light clients.
+-   [Parity light.js](https://paritytech.github.io/js-libs/light.js/getting-started/installation.html) - A high-level reactive JS library optimized for light clients.
 -   [Ready to use dApp template](https://gitlab.com/mikiquantum/simple-dapp-calculator) — a clone-and-start-hacking template of a dApp, with CI/CD batteries included. Built with Solidity and React, tested and migrated using Truffle. Brought to you by your [friendly EthBerlin devops mentors](https://gitlab.com/mikiquantum/simple-dapp-calculator/graphs/master)!
 
 * * *
