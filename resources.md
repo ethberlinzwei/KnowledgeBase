@@ -21,21 +21,18 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 -   [3box](resources/3box.md)
 -   [Algorand](resources/algorand.md)
 -   [Chainlink](resources/chainlink.md)
+-   [go-ethereum](resources/go-ethereum.md)
 -   [libP2P](resources/libp2p.md)
 -   [NuCypher](resources/nucypher.md)
 -   [Raiden](resources/raiden.md)
 -   [Remix](resources/remix.md)
 -   [Skale](resources/skale.md)
 -   [The Graph](resources/the-graph.md)
--   [Waves](resources/wavesplatform.md)
-
-## Meta resources
-
--   Find all public keys for the EtherCards that have been handed out to participants [here](./resources/ethberlin_2019_addresses.txt). You can use it for your hacks, drop funny tokens to these accounts or use it for voting systems where only participants can vote. Be creative and let us know how you used this list!
+- [Waves](resources/wavesplatform.md)
 
 ## Other Resources
 
--   [Parity light.js](https://paritytech.github.io/js-libs/light.js/getting-started/installation.html) - A high-level reactive JS library optimized for light clients.
+-   [Parity light.js](https://parity-js.github.io/light.js/getting-started/installation.html) - A high-level reactive JS library optimized for light clients.
 -   [Ready to use dApp template](https://gitlab.com/mikiquantum/simple-dapp-calculator) — a clone-and-start-hacking template of a dApp, with CI/CD batteries included. Built with Solidity and React, tested and migrated using Truffle. Brought to you by your [friendly EthBerlin devops mentors](https://gitlab.com/mikiquantum/simple-dapp-calculator/graphs/master)!
 
 * * *
