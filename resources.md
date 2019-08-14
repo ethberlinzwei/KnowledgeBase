@@ -27,7 +27,11 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 -   [Remix](resources/remix.md)
 -   [Skale](resources/skale.md)
 -   [The Graph](resources/the-graph.md)
-- [Waves](resources/wavesplatform.md)
+-   [Waves](resources/wavesplatform.md)
+
+## Meta resources
+
+-   Find all public keys for the EtherCards that have been handed out to participants [here](./resources/ethberlin_2019_addresses.txt). You can use it for your hacks, drop funny tokens to these accounts or use it for voting systems where only participants can vote. Be creative and let us know how you used this list!
 
 ## Other Resources
 
