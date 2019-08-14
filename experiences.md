@@ -32,6 +32,9 @@ If you need to recharge your meatspace batteries, take a power nap in a quiet, s
 ## Cryptoartlab Silkscreen Experience
 Bring your tshirts, jackets, bags, whatever you want, and have them silkscreened by the cypherpunk artist Martin Fischer of cryptoartlab.com
 
+## Tarot Cards of tech
+It is important to fully consider the impact of your hacks. Laying the [tarot cards of tech](http://tarotcardsoftech.artefactgroup.com) for your project can help. They can also reveal opportunities for creating positive change. Please ask at the help-desk for them. 
+
 ---
 
 # Public Keys
