@@ -6,10 +6,9 @@ This repository of knowledge guides you through getting started with ETHBerlin, 
 
 -   Find a team on Github: <https://github.com/ethberlinzwei/Find-A-Team>
 -   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
--   Contribute to the knowledge base on Riot: [#ethberlinzwei-kb:chat.weho.st](https://riot.im/app/#/room/#ethberlinzwei-kb:chat.weho.st)
 -   Sign up for ETHBerlin Zwei on Devpost: <https://zwei.devpost.com>
+-   Link to the events schedule: [google/spreadsheets/d/1RAPeTP1WurV57uwzm8YS9MRn2lnQ5XK9rRlfJ3cPYDc](https://docs.google.com/spreadsheets/d/1RAPeTP1WurV57uwzm8YS9MRn2lnQ5XK9rRlfJ3cPYDc)
 -   Check for updates on: <https://ethberlinzwei.com>
--   Find the old knowledge base from last year at: <https://github.com/ethberlin-hackathon/ETHBerlin-KnowledgeBase>
 
 ![ETHBerlin Zwei logo](./assets/mainlogo.png)
 
