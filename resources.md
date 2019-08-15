@@ -16,16 +16,19 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 -   Kauri has two collections of content useful for beginners, another [conceptual introduction](https://kauri.io/collection/5bb65f0f4f34080001731dc2/ethereum-101) and [a guide to creating a fullstack dApp](https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) including smart contract concepts, creating a frontend and deploying the dApp.
 -   [Superblocks Lab](https://lab.superblocks.com) - Instead of downloading lots of dependencies to get started, this browser-based IDE helps you learn and develop smart contracts and their web frontends. It has a built-in Solidity compiler and EVM, transaction history, and you can export your dApp once you're ready to try other tools.
 
+## Key Tools
+
+-   [go-ethereum](resources/go-ethereum.md)
+-   [Remix](resources/remix.md)
+
 ## Resources from Sponsors
 
 -   [3box](resources/3box.md)
 -   [Algorand](resources/algorand.md)
 -   [Chainlink](resources/chainlink.md)
--   [go-ethereum](resources/go-ethereum.md)
 -   [libP2P](resources/libp2p.md)
 -   [NuCypher](resources/nucypher.md)
 -   [Raiden](resources/raiden.md)
--   [Remix](resources/remix.md)
 -   [Skale](resources/skale.md)
 -   [The Graph](resources/the-graph.md)
 -   [Waves](resources/wavesplatform.md)
