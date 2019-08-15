@@ -6,6 +6,12 @@
 
 The following page lists common, useful documentation and resources for your hacks. Sponsors are advised to add their resources and APIs to this document:
 
+## First things first: Hacker Public Keys
+
+All participants will receive EthBerlin EtherCards for hacking. To encourage the usage of the cards and to simplify logistics, all cards come pre-charged with Görli and Kotti Classic Testnet Ether! 
+
+You can find all public keys for the EtherCards that have been handed out to participants [here](./resources/ethberlin_2019_addresses.txt). You can use it for your hacks, drop funny tokens to these accounts or use it for voting systems where only participants can vote. Be creative and let us know how you used this list!
+
 ## New to dApp development?
 
 If you're new to Ethereum, Web3, and dapp development, you are most welcome here! Below are some resources for you to learn the fundamentals and getting hacking as quickly as possible.
@@ -18,8 +24,10 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 
 ## Key Tools
 
--   [go-ethereum](resources/go-ethereum.md)
--   [Remix](resources/remix.md)
+-   [go-ethereum](resources/go-ethereum.md) client
+-   [parity-ethereum](https://wiki.parity.io/Parity-Ethereum) client
+-   [Remix](resources/remix.md) IDE
+-   [Görli](https://github.com/goerli/testnet) and Kotti classic testnet configurations
 
 ## Resources from Sponsors
 
@@ -32,10 +40,6 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 -   [Skale](resources/skale.md)
 -   [The Graph](resources/the-graph.md)
 -   [Waves](resources/wavesplatform.md)
-
-## Meta resources
-
--   Find all public keys for the EtherCards that have been handed out to participants [here](./resources/ethberlin_2019_addresses.txt). You can use it for your hacks, drop funny tokens to these accounts or use it for voting systems where only participants can vote. Be creative and let us know how you used this list!
 
 ## Other Resources
 
