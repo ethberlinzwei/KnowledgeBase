@@ -23,11 +23,11 @@ the events itself.
 
 However, there is a limited subsidy on a first-come first-served basis. We encourage everyone to allow those who benefit most make use of these subsidies. To apply please write [to us](mailto:joinus@ethberlin.com).
 
-## Accommodation
+## Accommodation and Sleeping
+
+The hackathon has a **nap room** where you can rest, but not make it your home. Beanbags are provided, but sleeping bags are not allowed. If you want a good sleep, then you need to find somewhere else.
 
 There are a variety of accommodation options available in Berlin. From hostels to airbnb flats and hotels. We **recommend the districts Treptow, Kreuzberg, Neukölln, or Friedrichshain** due to their proximity to the venue.
-
-Due to the regulations of the venue, unfortunately we cannot offer any sleeping facilities on-site, and **sleeping bags are not allowed**. Please make sure you take this into consideration when choosing an accomodation.
 
 Again, this year, we have the _adopt-a-hacker_ programme available for people offering and seeking a couch in proximity to the venue. Read more about the programme on our blog: [Mass adoption comes in all shapes and sizes: Berlin — ADOPT A HACKER](https://medium.com/ethberlin/mass-adoption-comes-in-all-shapes-and-sizes-berlin-adopt-a-hacker-154205a0dc27)!
 
