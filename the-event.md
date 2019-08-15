@@ -19,7 +19,7 @@ Let's get in touch!
 On Berlin's [very own web presence](https://www.berlin.de/en/airports-and-stations/) you can find information about the airports and stations in Berlin.
 
 Unfortunately ETHBerlin is not able to compensate traveling costs of participants as funding is limited and we've decided to allocate the biggest fraction of the funds to the prize pool and organizations of
-the events itself. 
+the events itself.
 
 However, there is a limited subsidy on a first-come first-served basis. We encourage everyone to allow those who benefit most make use of these subsidies. To apply please write [to us](mailto:joinus@ethberlin.com).
 
@@ -46,7 +46,7 @@ On Friday (August 23rd) at 22:00 the opening ceremony accompanied by dinner and 
 -   **Full Schedule** includes first-day conference tracks, workshops during the hackathon, etc.
 -   **Hackathon Schedule** includes key hackathon events (registration, etc.) and mealtimes.
 
-_Links to the schedule will be added as soon it becomes available._
+**Link to the schedule**: [google/spreadsheets/d/1RAPeTP1WurV57uwzm8YS9MRn2lnQ5XK9rRlfJ3cPYDc](https://docs.google.com/spreadsheets/d/1RAPeTP1WurV57uwzm8YS9MRn2lnQ5XK9rRlfJ3cPYDc)
 
 ## Food and Drinks
 
