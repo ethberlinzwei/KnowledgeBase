@@ -39,7 +39,7 @@ Supporting features/products:
 
 ## Getting Started
 
-If you want to hack on Raiden during ETHBerlinZwei, please use the latest testnet Raiden release: [v.100.5 (GANDALF2000)](https://github.com/raiden-network/raiden/releases/tag/v0.100.5-dev0).
+If you want to hack on Raiden during ETHBerlinZwei, please use the latest testnet Raiden release: [v0.100.5a0 (Antifragile Crocodile)](https://github.com/raiden-network/raiden/releases/tag/v0.100.5a0).
 
 Make sure you have read the [requirements for safe usage](https://raiden-network.readthedocs.io/en/stable/overview_and_guide.html#requirements-for-safe-usage) before proceeding. 
 
@@ -48,7 +48,7 @@ The easiest way to install and launch a Raiden node is using the [Raiden Wizard]
 Alternatively, you can manually install and launch Raiden:
 
 0. Layer 1 required! You'll need a local (testnet) Ethereum node, either geth or parity, that is always synced and working reliably.
-1. Download the Raiden Binaries for Linux or MacOS [here](https://github.com/raiden-network/raiden/releases/tag/v0.100.5-dev0).
+1. Download the Raiden Binaries for Linux or MacOS [here](https://github.com/raiden-network/raiden/releases/tag/v0.100.5a0).
 2. Follow the [instructions](https://raiden-network.readthedocs.io/en/stable/overview_and_guide.html#firing-it-up) to fire up Raiden. 
 
 
