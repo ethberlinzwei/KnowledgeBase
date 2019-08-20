@@ -4,7 +4,7 @@
 
 # Hackers and team formation
 
-Hackers of the event, self-organize!!1
+Hackers of the event, self-organize!! (maximum 5 people per team)
 
 ## Registration
 
