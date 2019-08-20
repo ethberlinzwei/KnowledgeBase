@@ -4,7 +4,22 @@
 
 # Hackers and team formation
 
-Hackers of the event, self-organize!!1
+Hackers of the event, self-organize!! 
+
+## Hacking rules
+
+You must be at ETHBerlin to work on a project for submission
+Your hack must be related to Ethereum
+You can plan ahead of time, but all code for your project has to be written during the event
+You cannot steal another team's source code
+The decision of judges is final for determining prizes and awards
+Please comply with all instructions from ETHBerlin organizers
+
+## Minimum requirements to be judged
+
+A link to the open-source code must be provided
+A short presentation file must describe your project
+The contract address(es) of your deployed demo must be provided, either on a testnet of your choice or mainnet of a platform of choice.
 
 ## Registration
 
@@ -27,6 +42,7 @@ You can also:
 Consider it as a way to meet like-minded people and discuss building teams, however this does not replace the official team registration on Devpost!
 
 **Once you have formed teams, sign up for ETHBerlin Zwei on Devpost** and submit your teams and projects: <https://zwei.devpost.com>
+
 
 ---
 
