@@ -45,7 +45,7 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 
 -   [Parity light.js](https://paritytech.github.io/js-libs/light.js/getting-started/installation.html) - A high-level reactive JS library optimized for light clients.
 -   [Ready to use dApp template](https://gitlab.com/mikiquantum/simple-dapp-calculator) — a clone-and-start-hacking template of a dApp, with CI/CD batteries included. Built with Solidity and React, tested and migrated using Truffle. Brought to you by your [friendly EthBerlin devops mentors](https://gitlab.com/mikiquantum/simple-dapp-calculator/graphs/master)!
-
+- [Keycards](https://keycard.status.im) will be distributed during the scavenger hunt - fully open source & contactless HD hardware wallet brought to you by Status
 * * *
 
 `<<` Back to [Guests](./guests.md) | Continue to [Experiences](./experiences.md) `>>`
