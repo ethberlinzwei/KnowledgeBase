@@ -12,6 +12,12 @@ The Tendermint Team is [hiring](https://tendermint.bamboohr.com/jobs/)!
 
 [Cosmos Meetup Berlin](https://www.meetup.com/Cosmos_Berlin/)
 
+# Cosmos Team at ETHBerlin 
+
+- During the educational sessions throughout the weekend, Sunny Aggarwal will be leading and participating on two panels with other protocols to discuss the importance of collaboration in the industry and what’s needed for cross-chain interoperability
+
+- If you are hacking or interested in hacking on the Cosmos stack, the team will be around all weekend or you can stop by our booth: Friday, August 23rd from 6pm to 9pm and Sunday, August 25th from 11am to 2pm
+
 
 # What is Cosmos?
 
