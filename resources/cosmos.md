@@ -1,4 +1,12 @@
-# Cosmos
+# Cosmos 
+
+
+
+# What is Cosmos?
+
+Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus.
+
+In other words, Cosmos is an ecosystem of blockchains that can scale and interoperate with each other. Before Cosmos, blockchains were siloed and unable to communicate with each other. They were hard to build and could only handle a small amount of transactions per second. Cosmos solves these problems with a new technical vision. In order to understand this vision we need to go back to the fundamentals of blockchain technology.
 
 # What is Tendermint?
 
@@ -13,14 +21,6 @@ To learn about application development on Tendermint, see the [Application Block
 For more details on using Tendermint, see the respective documentation for [Tendermint Core](https://tendermint.com/docs/tendermint-core/), [benchmarking and monitoring](https://tendermint.com/docs/tools/), and [network deployments](https://tendermint.com/docs/networks/).
 
 [Tendermint Developer Sessions](https://www.youtube.com/playlist?list=PLdQIb0qr3pnBbG5ZG-0gr3zM86_s8Rpqv)
-
-# What is Cosmos?
-
-Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms like Tendermint consensus.
-
-In other words, Cosmos is an ecosystem of blockchains that can scale and interoperate with each other. Before Cosmos, blockchains were siloed and unable to communicate with each other. They were hard to build and could only handle a small amount of transactions per second. Cosmos solves these problems with a new technical vision. In order to understand this vision we need to go back to the fundamentals of blockchain technology.
-
-
 
 # What is the Cosmos SDK?
 
