@@ -1,5 +1,16 @@
-# Cosmos 
+# ETHBerlinzwei Cosmos Knowledge Base
 
+# ETHBerliners 
+
+The Interchain Foundation is [funding a libp2p bounty](https://github.com/ethberlinzwei/Bounties/issues/17#issuecomment-522344744)
+
+Check out the [Interchain Foundation's Grant program](https://interchain.io/funding/)
+
+The Interchain Foundation is [hiring!](https://interchain.io/careers/ )  (many options for Berlin)
+
+The Tendermint Team is [hiring](https://tendermint.bamboohr.com/jobs/)! 
+
+[Cosmos Meetup Berlin](https://www.meetup.com/Cosmos_Berlin/)
 
 
 # What is Cosmos?
@@ -61,17 +72,7 @@ The Cosmos-SDK is currently written in [Golang](https://golang.org/), though the
 
 
 
-# ETHBerliners 
 
-The Interchain Foundation is [funding a libp2p bounty](https://github.com/ethberlinzwei/Bounties/issues/17#issuecomment-522344744)
-
-Check out the [Interchain Foundation's Grant program](https://interchain.io/funding/)
-
-The Interchain Foundation is [hiring!](https://interchain.io/careers/ )  (many options for Berlin)
-
-The Tendermint Team is [hiring](https://tendermint.bamboohr.com/jobs/)! 
-
-[Cosmos Meetup Berlin](https://www.meetup.com/Cosmos_Berlin/)
 
 
 
