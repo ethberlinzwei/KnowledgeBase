@@ -9,7 +9,7 @@ Hackers of the event, self-organize!! (maximum 5 people per team)
 ## Hacking rules
 
 - You must be at ETHBerlin to work on a project for submission
-- Your hack must be related to Ethereum or Ethereum Classic
+- Your hack must be related to Ethereum
 - You can plan ahead of time, but all code for your project has to be written during the event
 - You cannot steal another team's source code
 - The decision of judges is final for determining prizes and awards
