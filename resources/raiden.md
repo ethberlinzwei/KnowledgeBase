@@ -49,8 +49,14 @@ Alternatively, you can manually install and launch Raiden:
 
 0. Layer 1 required! You'll need a local (testnet) Ethereum node, either geth or parity, that is always synced and working reliably.
 1. Download the Raiden Binaries for Linux or MacOS [here](https://github.com/raiden-network/raiden/releases/tag/v0.100.5a0).
-2. Follow the [instructions](https://raiden-network.readthedocs.io/en/stable/overview_and_guide.html#firing-it-up) to fire up Raiden. 
+2. Follow the [instructions](https://raiden-network.readthedocs.io/en/latest/overview_and_guide.html) to fire up Raiden. 
+3. To start Raiden you need to provide a valid pathfinding service address. There are pathfinding services running on every testnet at the moment, some that charge fees and some that are for free. For Görli testnet the addresses are: PFS with fees --> https://pfs-goerli-with-fee.services-dev.raiden.network and PFS without fees --> https://pfs-goerli.services-dev.raiden.network
 
+Here is an example:
+
+```
+raiden --keystore-path  ~/.ethereum/testnet/keystore --eth-rpc-endpoint "https://goerli.infura.io/v3/<yourToken>" --pathfinding-service-address "https://pfs-goerli.services-dev.raiden.network"
+```
 
 ## Need Help?
 
