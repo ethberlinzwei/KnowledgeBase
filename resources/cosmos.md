@@ -75,10 +75,3 @@ The Cosmos Hub (`gaia`) docs have moved [here](https://github.com/cosmos/gaia/tr
 ## Languages
 
 The Cosmos-SDK is currently written in [Golang](https://golang.org/), though the framework could be implemented similarly in other languages. Contact us for information about funding an implementation in another language.
-
-
-
-
-
-
-
