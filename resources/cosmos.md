@@ -46,7 +46,7 @@ For more details on using Tendermint, see the respective documentation for [Tend
 The Cosmos-SDK is a framework for building multi-asset public Proof-of-Stake (PoS) blockchains, like the Cosmos Hub, as well as permissionned Proof-Of-Authority (PoA) blockchains.
 
 For more details click [here](https://cosmos.network/intro). 
-Check out our developer portal for more [resources] (https://cosmos.network/developers) . 
+Check out our developer portal for more [resources](https://cosmos.network/developers) . 
 
 
 
