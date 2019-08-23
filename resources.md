@@ -28,6 +28,7 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 -   [parity-ethereum](https://wiki.parity.io/Parity-Ethereum) client
 -   [Remix](resources/remix.md) IDE
 -   [Görli](https://github.com/goerli/testnet) and Kotti classic testnet configurations
+-   [Play](resources/play.md) lightweight solidity editor
 
 ## Resources from Sponsors
 
