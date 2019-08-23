@@ -59,5 +59,6 @@ During the hackathon:
 - [Mentors and Getting Help](./mentors.md)
 - [Judges and Judging](./judges.md)
 - [Sponsors and Supporters](./sponsors.md)
+- [Take part in dHack](./DHack.md)
 
 Last, but not least: [Read our Community Code of Conduct](./code-of-conduct.md)! Enjoy Berlin! <3
