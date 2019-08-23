@@ -43,6 +43,7 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 -   [Skale](resources/skale.md)
 -   [The Graph](resources/the-graph.md)
 -   [Waves](resources/wavesplatform.md)
+-   [DAOstack](resources/DAOstack.md)
 
 ## Other Resources
 
