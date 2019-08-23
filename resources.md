@@ -12,6 +12,8 @@ All participants will receive EthBerlin EtherCards for hacking. To encourage the
 
 You can find all public keys for the EtherCards that have been handed out to participants [here](./resources/ethberlin_2019_addresses.txt). You can use it for your hacks, drop funny tokens to these accounts or use it for voting systems where only participants can vote. Be creative and let us know how you used this list!
 
+- Also: [Take part in dHack](./resources/DHack.md)
+
 ## New to dApp development?
 
 If you're new to Ethereum, Web3, and dapp development, you are most welcome here! Below are some resources for you to learn the fundamentals and getting hacking as quickly as possible.
@@ -29,7 +31,6 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 -   [Remix](resources/remix.md) IDE
 -   [Görli](https://github.com/goerli/testnet) and Kotti classic testnet configurations
 -   [Play](resources/play.md) lightweight solidity editor
-- [Cosmos](resources/cosmos.md) blockchain application platform
 
 ## Resources from Sponsors
 
@@ -48,6 +49,8 @@ If you're new to Ethereum, Web3, and dapp development, you are most welcome here
 -   [Parity light.js](https://paritytech.github.io/js-libs/light.js/getting-started/installation.html) - A high-level reactive JS library optimized for light clients.
 -   [Ready to use dApp template](https://gitlab.com/mikiquantum/simple-dapp-calculator) — a clone-and-start-hacking template of a dApp, with CI/CD batteries included. Built with Solidity and React, tested and migrated using Truffle. Brought to you by your [friendly EthBerlin devops mentors](https://gitlab.com/mikiquantum/simple-dapp-calculator/graphs/master)!
 - [Keycards](https://keycard.status.im) will be distributed during the scavenger hunt - fully open source & contactless HD hardware wallet brought to you by Status
-* * *
+- [Cosmos](resources/cosmos.md) blockchain application platform
+
+---
 
 `<<` Back to [Guests](./guests.md) | Continue to [Experiences](./experiences.md) `>>`
