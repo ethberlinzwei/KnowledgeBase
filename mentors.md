@@ -8,7 +8,20 @@ Ooops! You had an amazing idea, but now you are stuck? No worries, our experienc
 
 1. Spot them at the venue! They are usually wearing colorful shirts!
 1. Discuss your issues in the [hackers channel on riot](https://riot.im/app/#/room/#ethberlinhackers:matrix.org), mentors will monitor it closely.
-1. Post your question in our mentor system, `HELPq`. _The link will be available as-soon-as-possible(tm)._
+1. Reach all of our mentors via the simple ticket system, [`HELPq`](https://eb2-helpq.herokuapp.com).
+1. Go to one of the helpdesks (see below) if you have a question in one of these areas.
+
+# Helpdesks
+
+This year we have three physical helpdesks where you can get support. Each of them focused on a specialty. You can find the helpdesks in the community kitchen on the 1st, 2nd, and 3rd floor.
+
+The three different helpdesks are
+
+**1st Floor** - libp2p/IPFS
+
+**2nd Floor** - Layer 2 (payment channels, sidechains, plasma, ...)
+
+**3rd Floor** - Security
 
 ---
 
