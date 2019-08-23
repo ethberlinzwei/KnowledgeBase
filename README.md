@@ -7,8 +7,14 @@ This repository of knowledge guides you through getting started with ETHBerlin, 
 -   Find a team on Github: <https://github.com/ethberlinzwei/Find-A-Team>
 -   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
 -   Sign up for ETHBerlin Zwei on Devpost: <https://zwei.devpost.com>
--   Link to the events schedule: [google/spreadsheets/d/1RAPeTP1WurV57uwzm8YS9MRn2lnQ5XK9rRlfJ3cPYDc](https://docs.google.com/spreadsheets/d/1RAPeTP1WurV57uwzm8YS9MRn2lnQ5XK9rRlfJ3cPYDc)
+-   Get Mentor Help at: <https://eb2-helpq.herokuapp.com>
+-   Link to the events schedule: [google/spreadsheets/d/1RAPeTP1WurV57uwzm8YS9MRn2lnQ5XK9rRlfJ3cPYDc](https://docs.google.com/spreadsheets/d/1RAPeTP1WurV57uwzm8YS9MRn2lnQ5XK9rRlfJ3cPYDc/edit#gid=831967769)
 -   Check for updates on: <https://ethberlinzwei.com>
+
+Rough hackathon schedule:
+- _Friday_: **DOORS 18:00** - DINNER 19:30 - **CEREMONY 20:45** - **HACKING 22:00**
+- _Saturday_: BREAKFAST 08:00 - LUNCH 13:00 - DINNER 19:00
+- _Sunday_: BREAKFAST 09:00 - **SUBMISSIONS 10:00** - JUDGING 11:00 - LUNCH 13:00 - CEREMONY 16:00
 
 ![ETHBerlin Zwei logo](./assets/mainlogo.png)
 
@@ -59,6 +65,5 @@ During the hackathon:
 - [Mentors and Getting Help](./mentors.md)
 - [Judges and Judging](./judges.md)
 - [Sponsors and Supporters](./sponsors.md)
-- [Take part in dHack](./DHack.md)
 
 Last, but not least: [Read our Community Code of Conduct](./code-of-conduct.md)! Enjoy Berlin! <3
