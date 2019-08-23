@@ -26,10 +26,10 @@ Before the hackathon:
 - [Community Members and Guest Access](./guests.md)
 
 During the hackathon:
-- [Resources and Documentation](./resources.md)
+- **[Resources and Documentation](./resources.md)**
 - [Experiences at ETHBerlin Zwei](./experiences.md)
 - [Prizes and Bounties](./bounties.md)
-- [Mentors and Getting Help](./mentors.md)
+- **[Mentors and Getting Help](./mentors.md)**
 - [Judges and Judging](./judges.md)
 - [Sponsors and Supporters](./sponsors.md)
 
