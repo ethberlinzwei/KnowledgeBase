@@ -18,6 +18,21 @@ Rough hackathon schedule:
 
 ![ETHBerlin Zwei logo](./assets/mainlogo.png)
 
+## Dive into the Knowledge Base!
+Before the hackathon:
+- [Prepare for ETHBerlin Zwei](./the-event.md)
+- [Hackers and team formation](./hackers.md)
+- [Volunteering at ETHBerlin Zwei](./volunteers.md)
+- [Community Members and Guest Access](./guests.md)
+
+During the hackathon:
+- [Resources and Documentation](./resources.md)
+- [Experiences at ETHBerlin Zwei](./experiences.md)
+- [Prizes and Bounties](./bounties.md)
+- [Mentors and Getting Help](./mentors.md)
+- [Judges and Judging](./judges.md)
+- [Sponsors and Supporters](./sponsors.md)
+
 ## What is ETHBerlin Zwei?
 We assume if you're reading this document, that you know what ETHBerlin Zwei is, but to recap: ETHBerlin Zwei is a combination of a hackathon, experiences, workshops and talks, happening from 21st till 25th of August 2019 in Berlin, Germany.
 
@@ -50,20 +65,5 @@ That's fine, you are most welcome here, everyone brings valuable skills to a hac
 
 ## Do I have to be a developer?
 No! In fact, we **welcome anyone who brings different skills** to a hackathon. Wether you want to help as a designer, project manager, give UX advice, write documentation, or something else. Often the projects that do well at hackathons are the ones that focus on more than just code.
-
-## Dive into the Knowledge Base!
-Before the hackathon:
-- [Prepare for ETHBerlin Zwei](./the-event.md)
-- [Hackers and team formation](./hackers.md)
-- [Volunteering at ETHBerlin Zwei](./volunteers.md)
-- [Community Members and Guest Access](./guests.md)
-
-During the hackathon:
-- [Resources and Documentation](./resources.md)
-- [Experiences at ETHBerlin Zwei](./experiences.md)
-- [Prizes and Bounties](./bounties.md)
-- [Mentors and Getting Help](./mentors.md)
-- [Judges and Judging](./judges.md)
-- [Sponsors and Supporters](./sponsors.md)
 
 Last, but not least: [Read our Community Code of Conduct](./code-of-conduct.md)! Enjoy Berlin! <3
