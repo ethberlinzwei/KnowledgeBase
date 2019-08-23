@@ -6,7 +6,7 @@ The Algorand blockchain is a ‘Pure Proof of Stake’ blockchain based on votin
 
 The bounty will require a team of at least one. To get started, please stop by the Algorand table and say hello to the team. 
 
--   Feel free to use the [Hackathon Lab Exercise](https://github.com/algorand-devrel/hackathon)to get started with all of the Algorand developer tools, which includes step by step instructions for: [Getting Started](https://developer.algorand.org/), Private Network, Goal command line, AlgoExplorer, [SDKs](https://developer.algorand.org/docs/using-sdks-and-rest-apis) and Resources.
+-   Feel free to use the [Hackathon Lab Exercise](https://github.com/algorand-devrel/hackathon) to get started with all of the Algorand developer tools, which includes step by step instructions for: [Getting Started](https://developer.algorand.org/), Private Network, Goal command line, AlgoExplorer, [SDKs](https://developer.algorand.org/docs/using-sdks-and-rest-apis) and Resources.
     -   you can also refer to any of the relevant SDK's either through our developer documentation or through [github](https://github.com/algorand)
 -   Feel free to communicate and ask questions with others in the community on [gitter](https://gitter.im/algorand-ethzweihack/community) or on [discord](https://discord.gg/SqNRnw7)
 -   Use any of the dev tools provided and leverage our SDKs and APIs to create a unique application on Algorand! 
@@ -37,7 +37,7 @@ The evaluation team is comprised of members of the Algorand product and develope
 Helping on technical questions and better understanding our technology stack with respect to your hackathon application
 Selecting the 4 winning teams that will receive our prizes and get recognition on socials!
 Advising you on getting more involved in our amazing community and ecosystem 
-We are @samabbassi (Sam), @RussFustino (Russ), @lizbaran (Liz)
+We are @samabbassi (Sam), @RussFustino (Russ), @the_baraness (Liz)
 
 
 ## Getting Started
