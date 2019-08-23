@@ -8,7 +8,7 @@ Ooops! You had an amazing idea, but now you are stuck? No worries, our experienc
 
 1. Spot them at the venue! They are usually wearing colorful shirts!
 1. Discuss your issues in the [hackers channel on riot](https://riot.im/app/#/room/#ethberlinhackers:matrix.org), mentors will monitor it closely.
-1. Reach all of our mentors via the simple ticket system, [`HELPq`](https://eb2-helpq.herokuapp.com).
+1. **Reach all of our mentors via the simple ticket system, [`HELPq`](https://eb2-helpq.herokuapp.com).**
 1. Go to one of the helpdesks (see below) if you have a question in one of these areas.
 
 # Helpdesks
