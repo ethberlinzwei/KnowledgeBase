@@ -15,6 +15,8 @@ Rough hackathon schedule:
 - _Friday_: **DOORS 18:00** - DINNER 19:30 - **CEREMONY 20:45** - **HACKING 22:00**
 - _Saturday_: BREAKFAST 08:00 - LUNCH 13:00 - DINNER 19:00
 - _Sunday_: BREAKFAST 09:00 - **SUBMISSIONS 10:00** - JUDGING 11:00 - LUNCH 13:00 - CEREMONY 16:00
+- _Sunday_: Make sure to show up for your judging slot! [This timetable](https://docs.google.com/spreadsheets/d/1BcEak2xlnmjzgWCx-z1QGMYcxNCNUW_mhxus5Fkr4l8/edit) will start filling up when we close the submissions at 10am on Sunday.
+
 
 ![ETHBerlin Zwei logo](./assets/mainlogo.png)
 
