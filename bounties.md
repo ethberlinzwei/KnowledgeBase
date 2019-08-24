@@ -31,9 +31,9 @@ You can submit your work to multiple prize awards, they are not exclusive! For e
 -   Smart contracts must be deployed to a public testnet, i.e., [Görli](https://github.com/goerli/testnet) or the Ethereum mainnet.
 -   Submission **closes at 10:00 am on Sunday** the 25th of August 2019.
 
-### Submission of sponsored prizes
+### Submission of Sponsored Prizes
 
-Each sponsored prize has a GitHub issue in the [bounties repository](https://github.com/ethberlinzwei/Bounties). After you've decided which ones you want to apply for, go to the Gitcoin bounty associated with that prize, and click on _"Start Work"_. At the end of judging, the sponsor will decide on a team, and pay out the bounty.
+Each sponsored prize has a GitHub issue in the [bounties repository](https://github.com/ethberlinzwei/Bounties/issues). After you've decided which ones you want to apply for please mention that in your project submission. At the end of judging, the sponsors will decide on a team, and pay out the bounty.
 
 These prizes are different from the Open Track prize and People's choice award.
 
